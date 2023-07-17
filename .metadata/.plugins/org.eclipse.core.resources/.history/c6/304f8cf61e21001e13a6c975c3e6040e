@@ -1,0 +1,15 @@
+package p2023_07_13;
+
+public class PromotionEX {
+	public static void main(String[] args) {
+		
+		byte byteValue = 10;
+		int intValue = byteValue;
+		System.out.println(intValue);
+		
+		char charValue = '가';
+		intValue = charValue;
+		System.out.println(intValue);
+		
+	}
+}

@@ -1,0 +1,20 @@
+package p2023_07_12;
+
+public class VariableEx02 {
+	public static void main(String[] args) {
+
+		int v1 = 15;
+//		int v2 = 30;
+		if (v1 > 10) {
+			int v2;
+			// v2 는 if문 안에서 정의되었기 때문에 if문 안에서만 사용가능하다.
+			v2 = v1 - 10;
+			System.out.println(v2);
+			
+		}
+//		int v3 = v1 + v2 + 5;
+
+		System.out.println(v1);
+		System.out.println(v3);
+	}
+}

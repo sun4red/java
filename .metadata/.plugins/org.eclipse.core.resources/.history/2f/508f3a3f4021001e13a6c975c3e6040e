@@ -1,0 +1,20 @@
+package p2023_07_13;
+
+import java.util.Scanner;
+
+public class Oper05 {
+	public static void main(String[] args) {
+
+		System.out.println("정수 2개를 입력 하세요?");
+		Scanner sc = new Scanner(System.in);
+		// 메소드를..!
+		
+		int nl = sc.nextInt(); // 스페이스바 or 엔터키로 구분함
+		int n2 = sc.nextInt();
+		
+		System.out.println("n1 : " + n1);
+		System.out.println("n2 : " + n2);
+		
+				
+	}
+}

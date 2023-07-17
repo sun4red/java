@@ -1,0 +1,13 @@
+package p2023_07_13;
+
+public class CastingEx01 {
+	public static void main(String[] args) {
+
+		byte value1 = 10;
+		int value 2 = 100;
+		long value3 = 1000L;
+		long result = value1 + value2 + value3;
+		System.out.println(result);
+		
+	}
+}

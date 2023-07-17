@@ -1,0 +1,8 @@
+package p2023_07_12;
+
+//패키지는 폴더라고 이해하자
+public class Test {
+	public static void main(String[] args) {
+		System.out.println("java출력 성공");
+	}
+}
