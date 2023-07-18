@@ -8,18 +8,23 @@ public class Report {
 
 		int result = 1;
 		String s = new String(n + "! = ");
-		for (int i = n;; i--) {
-			result *= i;
-			s = s + i;
-			if (i >= 2) {
-				s = s + " * ";
-			}
-			if (i == 1) {
-				break;
+
+		if (n == 0) {
+			s = s + 1;
+		} else {
+			for (int i = n;; i--) {
+				result *= i;
+				s = s + i;
+				if (i >= 2) {
+					s = s + " * ";
+				}
+				if (i == 1) {
+					break;
+				}
 			}
 		}
-		s = s + " = ";
-		return s + result;
+		s = s;
+		return s + "\n" + "계산 값:" + result;
 
 	}
 
