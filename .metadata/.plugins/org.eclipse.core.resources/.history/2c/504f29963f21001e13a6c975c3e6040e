@@ -1,9 +1,0 @@
-package p2023_07_13;
-
-public class Oper05 {
-	public static void main(String[] args) {
-
-		System.out.println("정수 2개를 입력 하세요?");
-		
-	}
-}

@@ -1,9 +1,0 @@
-package p2023_07_13;
-
-public class Test {
-public static void main(String[] args) {
-	int c = 30;
-	c = (char) c;
-	System.out.println(c);
-}
-}

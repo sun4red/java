@@ -1,9 +1,0 @@
-package p2023_07_12;
-
-public class VariableEx03 {
-	public static void main(String[] args) {
-
-	// 이스케이프 문자
-	 System.out.println("번호\이름\t직업");
-	}
-}

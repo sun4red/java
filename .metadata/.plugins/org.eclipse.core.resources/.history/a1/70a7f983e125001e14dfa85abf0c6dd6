@@ -1,0 +1,39 @@
+package p2023_07_19;
+
+class FieldInitValue {
+
+	byte byteField;
+	short shortField;
+	int intField;
+	long longField;
+
+	boolean booleanField;
+	char charField;
+	float floatField;
+	double doubleField;
+
+	int[] arrField;
+	String stringField;
+
+	
+}
+
+public class FieldInitValueEx {
+	private static void main(String[] args) {
+		// 메인은 퍼블릭 클래스랑 이름을 일치시켜야함
+		
+		FieldInitValue fiv = new FieldInitValue();
+		
+		System.out.println("byteField:" + fiv.byteField);
+		System.out.println("shortField:" + fiv.shortField);
+		System.out.println("intField:" + fiv.intField);
+		System.out.println("longField:" + fiv.longField);
+		System.out.println("booleanField:" + fiv.booleanField);
+		System.out.println("charField:" + fiv.charField);
+		System.out.println("floatField:" + fiv.floatField);
+		System.out.println("doubleField:" + fiv.doubleField);
+		System.out.println("arrField:" + fiv.arrField);
+		System.out.println("stringField:" + fiv.stringField);
+
+	}
+}
