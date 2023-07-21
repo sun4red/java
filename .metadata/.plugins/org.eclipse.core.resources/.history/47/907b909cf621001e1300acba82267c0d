@@ -1,9 +1,0 @@
-package p2023_07_14;
-
-public class Switch01 {
-	public static void main(String[] args) {
-
-		// switch ~ case 문
-		
-	}
-}
