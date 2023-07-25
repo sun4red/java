@@ -1,0 +1,39 @@
+package p2023_07_25;
+
+import java.util.Scanner;
+
+public class Report {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+
+		System.out.println("주민번호를 입력하세요");
+
+		String j = sc.nextLine();
+
+// 주민번호 유효성 검사를 메소드로 만드는게 깔끔하다..
+
+		String j1 = j.substring(0, 6);
+		String j2 = j.substring(7, 14);
+		String j12 = j1 + j2;
+
+		int eachj[] = new int[13];
+
+		for (int i = 0; i < 13; i++) {
+			eachj[i] = j12.charAt(i);
+		}
+
+		int k = 2;
+		int jk = 0;
+		for (int i = 0; i < 12; i++) {
+			jk += eachj[i] * k;
+			k++;
+			if (k == 9) {
+				k = 2;
+			}
+		}
+		int checknum = jk % 11;
+	}
+
+}
