@@ -1,0 +1,11 @@
+package p2023_07_26;
+
+public class Report {
+
+
+	int r6 [] = new int[6];
+	
+	
+	
+	
+}
