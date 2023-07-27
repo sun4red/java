@@ -1,0 +1,31 @@
+package p2023_07_27;
+
+class Point2D06{
+  protected int x=10;
+  protected int y=20;
+  
+  // 부모클래스의 기본 생성자. 자식 생성자 호출하면 자동으로 호출
+  public Point2D06( ){
+    System.out.println("슈퍼 클래스인 Point2D 생성자 호출");
+  }
+  
+  // 매개변수가 추가됨
+  public Point2D06(int xx, int yy){
+  x=xx; y=yy;
+  }
+}
+class Point3D06 extends Point2D06{
+  protected int z=30;
+  public void print( ){
+  System.out.println(x+", "+y+","+z);
+  }
+  public Point3D06( ){		// 기본 생성자
+    System.out.println("서브 클래스인 Point3D 생성자 호출");
+  }
+}
+class SuperTest06{
+  public static void main(String[] args){
+     Point3D06 pt=new Point3D06( );
+    pt.print( ); // 생성자 호출
+  }
+}
