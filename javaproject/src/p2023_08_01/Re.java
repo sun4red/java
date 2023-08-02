@@ -10,7 +10,9 @@ public class Re {
 		Set lot = new TreeSet();
 
 		for (int i = 0; lot.size() < 6; i++) {
-			int ran = (int) (Math.random() * 45 + 1);
+			int ran = (int) (Math.random() * 20 + 1);
+			System.out.println("랜덤:"+ran);
+			System.out.println("사이즈:"+lot.size());
 			lot.add(ran);
 		}
 

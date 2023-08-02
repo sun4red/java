@@ -15,7 +15,6 @@ public class BoardVO extends Object{
 	//생성자
 	public BoardVO(String register, String subject, String email,
 			String content, String passwd) {
-		super();
 		this.register = register;
 		this.subject = subject;
 		this.email = email;
