@@ -1,20 +1,16 @@
 package p2023_08_02;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 
 class Mi {
 
-	
 	private String name;
 	private int age;
 	private String email;
 	private String address;
 
-
-	
 	public String getName() {
 		return name;
 	}
@@ -52,7 +48,7 @@ class Mi {
 public class Re {
 
 	public static void main(String[] args) {
-		
+
 		List<Mi> mi = new ArrayList<Mi>();
 		Scanner sc = new Scanner(System.in);
 
@@ -73,7 +69,7 @@ public class Re {
 				String email = sc.nextLine();
 				System.out.println("주소를 입력하세요");
 				String address = sc.nextLine();
-				
+
 				i++;
 
 				Mi cm = new Mi();
@@ -81,11 +77,9 @@ public class Re {
 				cm.setAge(age);
 				cm.setEmail(email);
 				cm.setAddress(address);
-				
+
 				mi.add(cm);
-				
-				
-				
+
 			} else if (yn.equals("n")) {
 				System.out.println("입력중단");
 				break;
@@ -95,15 +89,16 @@ public class Re {
 			}
 
 		} // while
-		
-	for (int i = 0 ; i < mi.size();i++ ) {
-		System.out.println((i+1)+"번째 회원 정보");
-		System.out.println("이름\t: "+mi.get(i).getName());
-		System.out.println("나이\t: "+mi.get(i).getAge());
-		System.out.println("이메일\t: "+mi.get(i).getEmail());
-		System.out.println("주소\t: "+mi.get(i).getAddress());
+
 		System.out.println("===============================");
-	}
+		for (int i = 0; i < mi.size(); i++) {
+			System.out.println((i + 1) + "번째 회원 정보");
+			System.out.println("이름\t: " + mi.get(i).getName());
+			System.out.println("나이\t: " + mi.get(i).getAge());
+			System.out.println("이메일\t: " + mi.get(i).getEmail());
+			System.out.println("주소\t: " + mi.get(i).getAddress());
+			System.out.println("===============================");
+		}
 	} // main
 
 }
