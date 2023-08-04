@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;javaproject/src/p2023_07_31&apos;&#x0D;&#x0A;- Original project: &apos;javaproject&apos;&#x0D;&#x0A;- Destination element: &apos;javaproject/src/p2023_07_31&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     p2023_07_28.RefTest02.java&#x0D;&#x0A;     p2023_07_28.RefTest01.java&#x0D;&#x0A;     p2023_07_28.RefTest03.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;p2023_07_31" element1="/src&lt;p2023_07_28{RefTest02.java" element2="/src&lt;p2023_07_28{RefTest01.java" element3="/src&lt;p2023_07_28{RefTest03.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1690764342567" units="3" version="1.0"/>
+</session>

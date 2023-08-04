@@ -1,0 +1,26 @@
+package p2023_07_31;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class HashSetEx {
+
+	public static void main(String[] args) {
+		
+		
+		
+		Set<String> set = new HashSet<String>();
+		
+		set.add("자바");
+		set.add("JDBC");
+		set.add("Servlet/JSP");
+		set.add("JAVA");
+		set.add("iBATIS");
+
+		int size = set.size();
+		System.out.println("총 객체수 : " + size);
+		
+		
+	}
+	
+}

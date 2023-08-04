@@ -1,0 +1,27 @@
+package p2023_07_24;
+
+import java.util.Date;
+
+public class DateEx {
+
+	public static void main(String[] args) {
+// 날짜 시간 관련 클래스 : Date, Timestamp
+// 1. Date
+		
+		Date d = new Date();
+		
+		
+	System.out.println(d);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+}

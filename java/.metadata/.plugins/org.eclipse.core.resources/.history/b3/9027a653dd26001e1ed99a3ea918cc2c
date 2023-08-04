@@ -1,0 +1,50 @@
+package p2023_07_20;
+
+// 매개변수가 4개로 되어있는 생성자 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+
+public class MemberInput {
+
+	public static void main(String[] args) {
+
+		System.out.println("회원정보를 입력하세요");
+		System.out.println("성명, 나이, 이메일, 주소");
+
+		/*
+		 * 
+		 * Scanner sc = new Scanner(System.in);
+		 * 
+		 * String i1 = sc.next(); int i2 = sc.nextInt(); String i3 = sc.next(); String
+		 * i4 = sc.next();
+		 * 
+		 */
+
+		String i1 = "선";
+		int i2 = 53;
+		String i3 = "메일";
+		String i4 = "주주소";
+
+		MemberInfo m1 = new MemberInfo(i1, i2, i3, i4);
+
+		System.out.println("회원정보");
+		System.out.println("성명\t:");
+
+	}
+
+}
+
+class MemberInfo {
+	private String name;
+	private int age;
+	private String email;
+	private String address;
+
+	public MemberInfo(String name, int age, String email, String address) {
+		this.name = name;
+		this.age = age;
+		this.email = email;
+		this.address = address;
+
+		// 전달된 값으로 필드를 초기화..!?
+
+	}
+}

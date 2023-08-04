@@ -1,0 +1,23 @@
+package p2023_07_17;
+
+public class Report {
+
+	static int f(int n) {
+
+		int result = 1;
+		for (int i = n;; i--) {
+			result *= i;
+			if (i == 1) {
+				break;
+			}
+		}
+		return result;
+
+	}
+
+	public static void main(String[] args) {
+
+		System.out.println(f(3));
+
+	}
+}

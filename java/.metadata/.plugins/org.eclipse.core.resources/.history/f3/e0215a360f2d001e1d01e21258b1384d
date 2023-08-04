@@ -1,0 +1,33 @@
+package p2023_07_28;
+
+interface IHello06{
+  int a=10; // 상수 public static final 생략
+  public abstract void sayHello(String name);
+}
+interface IGoodBye06{
+  public abstract void sayGoodBye(String name);
+}
+interface ITotal06 extends IHello06, IGoodBye06{
+  public abstract void greeting(String name);
+}
+
+class SubClass06 implements ITotal06{
+  public void sayHello(String name){
+    System.out.println(name+"씨 안녕하세요!");
+  }
+  public void sayGoodBye(String name){
+    System.out.println(name+"씨 안녕가세요!");
+  }
+  public void greeting(String name){
+    System.out.println(name + ", 안녕!");
+  }
+}
+
+class AbstractTest06{
+  public static void main(String[] args) {
+    SubClass06 test= new SubClass06();
+    test.sayHello("썬썬");
+    test.sayGoodBye(a);
+    test.greeting("썬더치킨");
+  }
+}         
