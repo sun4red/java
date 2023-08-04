@@ -13,6 +13,7 @@ public class ThreadSleep implements Runnable {
 			// block 상태로 만듦.
 		    // 1초 동안 thread을 block 상태에 빠트림
 		    Thread.sleep( 1000 ); //(단위: 1/1000 초)
+		    // 예외처리 형식 요구
 		} catch ( InterruptedException ie ) {		    
 		    System.out.println( ie.toString() );
 		}
