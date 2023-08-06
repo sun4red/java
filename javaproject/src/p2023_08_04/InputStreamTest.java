@@ -1,0 +1,32 @@
+package p2023_08_04;
+
+// 입출력에 관한 패키지 import
+import java.io.*;
+
+public class InputStreamTest {
+
+    public static void main( String[] args ) {
+		
+	// InputStream 객체 생성
+	//System.in은 표준입력 장치인 키보드로 부터 입력 받는것을 의미함.
+	InputStream is = System.in; // 한글같은 2byte 자료를 입력하면 깨진다.
+	int inputValue = 0;
+
+	System.out.print( "Input Data : " );
+
+	try {
+		// 키보드로부터 값을 입력 받음
+		//read() 메소드는 1바이트를 읽어들여서 
+		//ascii 코드(0~127)값으로 casting함.
+		inputValue = is.read(); 
+	} catch ( IOException io ) {
+	//	System.out.print(io.toString());
+		System.out.print(io.getMessage());
+	}//한글 처리를 못함.
+	
+System.out.println( "InputData is " + inputValue );	
+System.out.println( "InputData is " + (char)inputValue );
+	}
+}
+
+		
