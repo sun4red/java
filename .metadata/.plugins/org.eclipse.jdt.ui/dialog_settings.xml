@@ -9,6 +9,7 @@
 	<item key="CallHierarchyViewPart.orientation" value="3"/>
 	<item key="CallHierarchyViewPart.ratio1" value="500"/>
 	<item key="filters_last_used" value="filter_imports;"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Program Files\Java\jdk-11\lib"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -126,5 +127,8 @@
 			<list key="workingSets">
 			</list>
 		</section>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="2"/>
 	</section>
 </section>
