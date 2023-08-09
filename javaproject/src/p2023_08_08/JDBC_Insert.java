@@ -20,6 +20,8 @@ public static void main(String[] args) {
      try{
       Class.forName(driver);
       con = DriverManager.getConnection(url, "scott", "tiger" );
+      // 위 두줄은 공통문!
+      
       stmt= con.createStatement();
 
       //---JDBC_Insert 추가된 내용-------
