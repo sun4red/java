@@ -2,7 +2,7 @@
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_Gq4EQEY_Ee6V85sYGNRYkQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Gq4EQUY_Ee6V85sYGNRYkQ" bindingContexts="_Gq4tLEY_Ee6V85sYGNRYkQ">
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;InsertMember.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/InsertMember.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/InsertMember.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CallableStatementTest03.java&quot; tooltip=&quot;javaproject/src/p2023_08_29/CallableStatementTest03.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_29/CallableStatementTest03.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CallableStatementTest02.java&quot; tooltip=&quot;javaproject/src/p2023_08_29/CallableStatementTest02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_29/CallableStatementTest02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Insert02.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/JDBC_Insert02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/JDBC_Insert02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CallableStatementTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_29/CallableStatementTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_29/CallableStatementTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor&quot; name=&quot;MyOracle.sql&quot; tooltip=&quot;javaproject/src/SQL/MyOracle.sql&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/SQL/MyOracle.sql&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor&quot; name=&quot;MySQL.sql&quot; tooltip=&quot;javaproject/src/SQL/MySQL.sql&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/SQL/MySQL.sql&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Problem3.java&quot; tooltip=&quot;javaproject/src/p2023_08_16/Problem3.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_16/Problem3.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Problem5.java&quot; tooltip=&quot;javaproject/src/p2023_08_16/Problem5.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_16/Problem5.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Problem6.java&quot; tooltip=&quot;javaproject/src/p2023_08_16/Problem6.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_16/Problem6.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Problem2.java&quot; tooltip=&quot;javaproject/src/p2023_08_16/Problem2.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_16/Problem2.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Problem1.java&quot; tooltip=&quot;javaproject/src/p2023_08_16/Problem1.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_16/Problem1.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;HashTableTest02.java&quot; tooltip=&quot;javaproject/src/p2023_08_02/HashTableTest02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_02/HashTableTest02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Re.java&quot; tooltip=&quot;javaproject/src/p2023_07_31/Re.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_07_31/Re.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Re.java&quot; tooltip=&quot;javaproject/src/p2023_08_01/Re.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_01/Re.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Re.java&quot; tooltip=&quot;javaproject/src/p2023_08_02/Re.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_02/Re.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Re.java&quot; tooltip=&quot;javaproject/src/p2023_08_03/Re.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_03/Re.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Re.java&quot; tooltip=&quot;javaproject/src/p2023_08_04/Re.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_04/Re.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Problem5.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/Problem5.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/Problem5.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Problem4.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/Problem4.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/Problem4.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Problem3.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/Problem3.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/Problem3.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UpdateBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/UpdateBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/UpdateBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SelectBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/SelectBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/SelectBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;InsertBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/InsertBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/InsertBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DeleteBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/DeleteBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/DeleteBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Update02.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/JDBC_Update02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/JDBC_Update02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Insert02.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/JDBC_Insert02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/JDBC_Insert02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Delete02.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/JDBC_Delete02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/JDBC_Delete02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Select02.java&quot; tooltip=&quot;javaproject/src/p2023_08_11/JDBC_Select02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_11/JDBC_Select02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TestingSQL.java&quot; tooltip=&quot;javaproject/src/p2023_08_10/TestingSQL.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_10/TestingSQL.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Update02.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/JDBC_Update02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/JDBC_Update02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Connect02.java&quot; tooltip=&quot;javaproject/src/p2023_08_10/JDBC_Connect02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_10/JDBC_Connect02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Connect01.java&quot; tooltip=&quot;javaproject/src/p2023_08_10/JDBC_Connect01.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_10/JDBC_Connect01.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;InsertBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_10/InsertBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_10/InsertBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SelectBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_10/SelectBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_10/SelectBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UpdateBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_10/UpdateBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_10/UpdateBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DeleteBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_10/DeleteBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_10/DeleteBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Insert01.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/JDBC_Insert01.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/JDBC_Insert01.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DeleteBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/DeleteBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/DeleteBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;UpdateBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/UpdateBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/UpdateBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SelectBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/SelectBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/SelectBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;InsertBoard.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/InsertBoard.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/InsertBoard.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MemberManagement.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/MemberManagement.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/MemberManagement.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EmployeeReg1.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/EmployeeReg1.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/EmployeeReg1.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Delete02.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/JDBC_Delete02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/JDBC_Delete02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Select02.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/JDBC_Select02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/JDBC_Select02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Insert.java&quot; tooltip=&quot;javaproject/src/p2023_08_08/JDBC_Insert.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_08/JDBC_Insert.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Select.java&quot; tooltip=&quot;javaproject/src/p2023_08_08/JDBC_Select.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_08/JDBC_Select.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Update01.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/JDBC_Update01.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/JDBC_Update01.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Select01.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/JDBC_Select01.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/JDBC_Select01.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Delete01.java&quot; tooltip=&quot;javaproject/src/p2023_08_09/JDBC_Delete01.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_09/JDBC_Delete01.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Delete.java&quot; tooltip=&quot;javaproject/src/p2023_08_08/JDBC_Delete.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_08/JDBC_Delete.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Update.java&quot; tooltip=&quot;javaproject/src/p2023_08_08/JDBC_Update.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_08/JDBC_Update.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Connect01.java&quot; tooltip=&quot;javaproject/src/p2023_08_08/JDBC_Connect01.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_08/JDBC_Connect01.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JDBC_Connect02.java&quot; tooltip=&quot;javaproject/src/p2023_08_08/JDBC_Connect02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_08/JDBC_Connect02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;OracleDriver.class&quot; tooltip=&quot;oracle.jdbc.driver.OracleDriver&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=javaproject/C:\/Program Files\/Java\/jdk-11\/lib\/ojdbc6.jar&amp;lt;oracle.jdbc.driver(OracleDriver.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ServerThread.java&quot; tooltip=&quot;javaproject/src/p2023_08_08/ServerThread.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_08/ServerThread.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BroadCastingServer.java&quot; tooltip=&quot;javaproject/src/p2023_08_08/BroadCastingServer.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_08/BroadCastingServer.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BroadCastingClient.java&quot; tooltip=&quot;javaproject/src/p2023_08_08/BroadCastingClient.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_08/BroadCastingClient.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FileTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_08/FileTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_08/FileTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FileTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/FileTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/FileTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Re.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/Re.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/Re.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BroadCastingClient.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/BroadCastingClient.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/BroadCastingClient.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ServerThread.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/ServerThread.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/ServerThread.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SimpleClient.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/SimpleClient.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/SimpleClient.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BroadCastingServer.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/BroadCastingServer.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/BroadCastingServer.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TalkServer.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/TalkServer.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/TalkServer.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TalkClient.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/TalkClient.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/TalkClient.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GUIClient.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/GUIClient.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/GUIClient.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;GUIServer.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/GUIServer.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/GUIServer.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TalkStatement.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/TalkStatement.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/TalkStatement.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ConsoleClient.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/ConsoleClient.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/ConsoleClient.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SimpleClient2.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/SimpleClient2.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/SimpleClient2.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ConsoleServer.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/ConsoleServer.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/ConsoleServer.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;ServerSocket.class&quot; tooltip=&quot;java.net.ServerSocket&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=Sun/C:\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&amp;lt;java.net(ServerSocket.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SimpleServer2.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/SimpleServer2.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/SimpleServer2.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SimpleServer.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/SimpleServer.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/SimpleServer.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;Socket.class&quot; tooltip=&quot;java.net.Socket&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=Sun/C:\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&amp;lt;java.net(Socket.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;InetAddressTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/InetAddressTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/InetAddressTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ObjectStreamTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/ObjectStreamTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/ObjectStreamTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PersonInformation.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/PersonInformation.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/PersonInformation.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DataIOTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/DataIOTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/DataIOTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FileWriterEx.java&quot; tooltip=&quot;javaproject/src/p2023_08_07/FileWriterEx.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_07/FileWriterEx.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Report01.java&quot; tooltip=&quot;javaproject/src/p2023_07_18/Report01.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_07_18/Report01.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ArrayEx08.java&quot; tooltip=&quot;javaproject/src/p2023_07_18/ArrayEx08.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_07_18/ArrayEx08.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ConstructorTest02.java&quot; tooltip=&quot;javaproject/src/p2023_07_19/ConstructorTest02.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_07_19/ConstructorTest02.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ConstructorTest03.java&quot; tooltip=&quot;javaproject/src/p2023_07_19/ConstructorTest03.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_07_19/ConstructorTest03.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;InputStreamReaderTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_04/InputStreamReaderTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_04/InputStreamReaderTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Variable.java&quot; tooltip=&quot;javaproject/src/p2023_07_12/Variable.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_07_12/Variable.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Test.java&quot; tooltip=&quot;javaproject/src/p2023_07_11/Test.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_07_11/Test.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FileWriterTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_04/FileWriterTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_04/FileWriterTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;Integer.class&quot; tooltip=&quot;java.lang.Integer&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=javaproject/C:\/Users\/klzxc\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230801-1951\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&amp;lt;java.lang(Integer.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Avg.java&quot; tooltip=&quot;Sun/src/Avg/Avg.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Sun/src/Avg/Avg.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;data1.txt&quot; tooltip=&quot;javaproject/data1.txt&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/data1.txt&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;data.txt&quot; tooltip=&quot;javaproject/data.txt&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/data.txt&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Clock.java&quot; tooltip=&quot;javaproject/src/p2023_08_04/Clock.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_04/Clock.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FileInputStreamTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_04/FileInputStreamTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_04/FileInputStreamTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Family.java&quot; tooltip=&quot;javaproject/src/p2023_08_04/Family.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_04/Family.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FileOutputStreamTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_04/FileOutputStreamTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_04/FileOutputStreamTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FileReaderTest.java&quot; tooltip=&quot;javaproject/src/p2023_08_04/FileReaderTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/javaproject/src/p2023_08_04/FileReaderTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_Gq4EQUY_Ee6V85sYGNRYkQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Gq4EQkY_Ee6V85sYGNRYkQ" label="%trimmedwindow.label.eclipseSDK" x="953" y="0" width="974" height="1047">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_Gq4EQUY_Ee6V85sYGNRYkQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Gq4EQkY_Ee6V85sYGNRYkQ" label="%trimmedwindow.label.eclipseSDK" x="57" y="27" width="974" height="1047">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -10,8 +10,9 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1691149523241"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_Gq4EQkY_Ee6V85sYGNRYkQ" selectedElement="_Gq4EQ0Y_Ee6V85sYGNRYkQ" horizontal="true">
-      <children xsi:type="advanced:PerspectiveStack" xmi:id="_Gq4EQ0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_Gq4Eg0Y_Ee6V85sYGNRYkQ">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_Gq4EQ0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_GiRoMEcLEe6LP4wwRqe4tg">
         <children xsi:type="advanced:Perspective" xmi:id="_Gq4EREY_Ee6V85sYGNRYkQ" elementId="org.eclipse.jst.j2ee.J2EEPerspective" selectedElement="_Gq4ERUY_Ee6V85sYGNRYkQ" label="Java EE" iconURI="platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif">
           <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.undo,persp.hideToolbarSC:org.eclipse.ui.edit.redo,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,"/>
           <tags>persp.actionSet:org.eclipse.mylyn.doc.actionSet</tags>
@@ -416,9 +417,9 @@
           <tags>persp.editorOnboardingCommand:Step Over$$$F6</tags>
           <tags>persp.editorOnboardingCommand:Step Return$$$F7</tags>
           <tags>persp.editorOnboardingCommand:Resume$$$F8</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_Gq4EhEY_Ee6V85sYGNRYkQ" selectedElement="_Gq4El0Y_Ee6V85sYGNRYkQ">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_Gq4EhEY_Ee6V85sYGNRYkQ" selectedElement="_Gq4EhUY_Ee6V85sYGNRYkQ">
             <children xsi:type="basic:PartSashContainer" xmi:id="_Gq4EhUY_Ee6V85sYGNRYkQ" containerData="7215" selectedElement="_Gq4EhkY_Ee6V85sYGNRYkQ" horizontal="true">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_Gq4EhkY_Ee6V85sYGNRYkQ" containerData="5000" selectedElement="_Gq4EjkY_Ee6V85sYGNRYkQ" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_Gq4EhkY_Ee6V85sYGNRYkQ" containerData="5000" selectedElement="_Gq4Eh0Y_Ee6V85sYGNRYkQ" horizontal="true">
                 <children xsi:type="basic:PartStack" xmi:id="_Gq4Eh0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.debug.internal.ui.NavigatorFolderView" containerData="2526" selectedElement="_Gq4EiUY_Ee6V85sYGNRYkQ">
                   <tags>org.eclipse.e4.primaryNavigationStack</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_Gq4EiEY_Ee6V85sYGNRYkQ" elementId="org.eclipse.debug.ui.DebugView" toBeRendered="false" ref="_Gq4IFUY_Ee6V85sYGNRYkQ" closeable="true">
@@ -482,7 +483,6 @@
             </children>
             <children xsi:type="basic:PartStack" xmi:id="_Gq4El0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.debug.internal.ui.ToolsFolderView" containerData="2785" selectedElement="_Gq4EoUY_Ee6V85sYGNRYkQ">
               <tags>Data Management</tags>
-              <tags>active</tags>
               <tags>noFocus</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_Gq4EmEY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.views.ProblemView" toBeRendered="false" ref="_Gq4H6EY_Ee6V85sYGNRYkQ" closeable="true">
                 <tags>View</tags>
@@ -532,6 +532,94 @@
             </children>
           </children>
         </children>
+        <children xsi:type="advanced:Perspective" xmi:id="_GiRoMEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.perspective.design" selectedElement="_GiRoMUcLEe6LP4wwRqe4tg" label="eXERD" iconURI="platform:/plugin/com.tomato.exerd.core/icon/common/erd_editor.gif">
+          <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.undo,persp.hideToolbarSC:org.eclipse.ui.edit.redo,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,"/>
+          <tags>persp.actionSet:org.eclipse.mylyn.doc.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.mylyn.tasks.ui.navigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.search.searchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.text.quicksearch.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.annotationNavigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.navigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo</tags>
+          <tags>persp.actionSet:org.eclipse.ui.externaltools.ExternalToolsSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.keyBindings</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.openFiles</tags>
+          <tags>persp.viewSC:org.eclipse.gef.ui.palette_view</tags>
+          <tags>persp.viewSC:com.tomato.exerd.ui.views.domain</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ResourceNavigator</tags>
+          <tags>persp.viewSC:com.tomato.exerd.ui.views.thumbnail</tags>
+          <tags>persp.viewSC:com.tomato.exerd.modelview3.ModelView3</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
+          <tags>persp.viewSC:org.eclipse.ui.console.ConsoleView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ProblemView</tags>
+          <tags>persp.newWizSC:com.tomato.exerd.ui.wizards.newEXerdWizard</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.folder</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.file</tags>
+          <tags>persp.newWizSC:com.tomato.exerd.erwin.import</tags>
+          <tags>persp.newWizSC:com.tomato.exerd.ui.wizards.newEXerdWizardFromDatabase</tags>
+          <tags>persp.newWizSC:com.tomato.exerd.term.ui.wizard.NewTermDictionaryWizard</tags>
+          <tags>persp.newWizSC:com.tomato.exerd.xscript.ui.wizard.NewXScriptWizard</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.launchActionSet</tags>
+          <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
+          <children xsi:type="basic:PartSashContainer" xmi:id="_GiRoMUcLEe6LP4wwRqe4tg" selectedElement="_GiRoNkcLEe6LP4wwRqe4tg" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_GiRoMkcLEe6LP4wwRqe4tg" containerData="1800" selectedElement="_GiRoNEcLEe6LP4wwRqe4tg">
+              <children xsi:type="basic:PartStack" xmi:id="_GiRoM0cLEe6LP4wwRqe4tg" elementId="leftFolder" toBeRendered="false" containerData="3000"/>
+              <children xsi:type="basic:PartStack" xmi:id="_GiRoNEcLEe6LP4wwRqe4tg" elementId="org.eclipse.gef.ui.palette_viewMStack" containerData="7000" selectedElement="_GiRoNUcLEe6LP4wwRqe4tg">
+                <children xsi:type="advanced:Placeholder" xmi:id="_GiRoNUcLEe6LP4wwRqe4tg" elementId="org.eclipse.gef.ui.palette_view" ref="_GiMvsEcLEe6LP4wwRqe4tg" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:General</tags>
+                </children>
+              </children>
+            </children>
+            <children xsi:type="basic:PartSashContainer" xmi:id="_GiRoNkcLEe6LP4wwRqe4tg" containerData="8200" selectedElement="_GiRoPkcLEe6LP4wwRqe4tg" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_GiRoN0cLEe6LP4wwRqe4tg" containerData="7799">
+                <children xsi:type="advanced:Placeholder" xmi:id="_GiRoOEcLEe6LP4wwRqe4tg" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_Gq4G9EY_Ee6V85sYGNRYkQ"/>
+                <children xsi:type="basic:PartStack" xmi:id="_GiRoOUcLEe6LP4wwRqe4tg" elementId="bottomFolder" containerData="3000" selectedElement="_GiRoOkcLEe6LP4wwRqe4tg">
+                  <children xsi:type="advanced:Placeholder" xmi:id="_GiRoOkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.domain" ref="_GiOk4EcLEe6LP4wwRqe4tg" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:eXERD</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_GiRoO0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.validate.ui.ValidateView" ref="_GiPL8EcLEe6LP4wwRqe4tg" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:eXERD</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_GiRoPEcLEe6LP4wwRqe4tg" elementId="org.eclipse.ui.console.ConsoleView" ref="_Gq4H7UY_Ee6V85sYGNRYkQ" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:General</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_GiRoPUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.xscript.ScriptView" toBeRendered="false" ref="_GiRBIEcLEe6LP4wwRqe4tg" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:eXERD</tags>
+                  </children>
+                </children>
+              </children>
+              <children xsi:type="basic:PartSashContainer" xmi:id="_GiRoPkcLEe6LP4wwRqe4tg" containerData="2201" selectedElement="_GiRoP0cLEe6LP4wwRqe4tg">
+                <children xsi:type="basic:PartStack" xmi:id="_GiRoP0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.thumbnailMStack" containerData="2500" selectedElement="_GiRoQEcLEe6LP4wwRqe4tg">
+                  <tags>active</tags>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_GiRoQEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.thumbnail" ref="_GiNWwEcLEe6LP4wwRqe4tg" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:eXERD</tags>
+                  </children>
+                </children>
+                <children xsi:type="basic:PartStack" xmi:id="_GiRoQUcLEe6LP4wwRqe4tg" elementId="rightFolder" containerData="7500" selectedElement="_GiRoQkcLEe6LP4wwRqe4tg">
+                  <children xsi:type="advanced:Placeholder" xmi:id="_GiRoQkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.modelview3.ModelView3" ref="_GiN90EcLEe6LP4wwRqe4tg" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:eXERD</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_GiRoQ0cLEe6LP4wwRqe4tg" elementId="org.eclipse.ui.views.ContentOutline" ref="_Gq4IB0Y_Ee6V85sYGNRYkQ" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:General</tags>
+                  </children>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_GiRoREcLEe6LP4wwRqe4tg" elementId="org.eclipse.ui.views.minimap.MinimapView" toBeRendered="false" ref="_Gq4ICkY_Ee6V85sYGNRYkQ" closeable="true">
+                    <tags>View</tags>
+                    <tags>categoryTag:General</tags>
+                  </children>
+                </children>
+              </children>
+            </children>
+          </children>
+        </children>
       </children>
       <children xsi:type="basic:PartStack" xmi:id="_Gq4Eo0Y_Ee6V85sYGNRYkQ" elementId="stickyFolderRight" toBeRendered="false" containerData="2500">
         <children xsi:type="advanced:Placeholder" xmi:id="_Gq4EpEY_Ee6V85sYGNRYkQ" elementId="org.eclipse.help.ui.HelpView" toBeRendered="false" ref="_Gq4G8UY_Ee6V85sYGNRYkQ" closeable="true">
@@ -557,8 +645,14 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_Gq4G8kY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.internal.introview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Welcome" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.ViewIntroAdapterPart"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view>&#xD;&#xA;&lt;presentation currentPage=&quot;overview&quot; restore=&quot;true&quot;/>&#xD;&#xA;&lt;standbyPart/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <menus xmi:id="_D6SSQEcLEe6LP4wwRqe4tg" elementId="org.eclipse.ui.internal.introview">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_D6SSQUcLEe6LP4wwRqe4tg" elementId="org.eclipse.ui.internal.introview" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_Gq4G80Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Cheat Sheets" iconURI="platform:/plugin/org.eclipse.ui.cheatsheets/icons/view16/cheatsheet_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.cheatsheets.views.CheatSheetView"/>
@@ -583,7 +677,7 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_Gq4G_kY_Ee6V85sYGNRYkQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CallableStatementTest03.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CallableStatementTest03.java&quot; partName=&quot;CallableStatementTest03.java&quot; title=&quot;CallableStatementTest03.java&quot; tooltip=&quot;javaproject/src/p2023_08_29/CallableStatementTest03.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/javaproject/src/p2023_08_29/CallableStatementTest03.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1221&quot; selectionTopPixel=&quot;225&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CallableStatementTest03.java&quot; partName=&quot;CallableStatementTest03.java&quot; title=&quot;CallableStatementTest03.java&quot; tooltip=&quot;javaproject/src/p2023_08_29/CallableStatementTest03.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/javaproject/src/p2023_08_29/CallableStatementTest03.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1221&quot; selectionTopPixel=&quot;149&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -606,7 +700,7 @@
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_Gq4Hg0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.navigator.ProjectExplorer"/>
+      <toolbar xmi:id="_Gq4Hg0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_Gq4HikY_Ee6V85sYGNRYkQ" elementId="org.eclipse.jdt.ui.TypeHierarchy" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Type Hierarchy" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/class_hi.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyViewPart"/>
@@ -728,12 +822,11 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
       <menus xmi:id="_Gq4H7kY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_Gq4H8EY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.console.ConsoleView"/>
+      <toolbar xmi:id="_Gq4H8EY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.console.ConsoleView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_Gq4H_0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.views.ProgressView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Progress" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/pview.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.progress.ProgressView"/>
@@ -927,6 +1020,68 @@
       </menus>
       <toolbar xmi:id="_Gq4IL0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.datatools.sqltools.result.resultView" visible="false"/>
     </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_GiMvsEcLEe6LP4wwRqe4tg" elementId="org.eclipse.gef.ui.palette_view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Palette" iconURI="platform:/plugin/org.eclipse.gef/icons/palette_view.gif" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.gef"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.gef.ui.views.palette.PaletteView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+      <menus xmi:id="_Gim_YEcLEe6LP4wwRqe4tg" elementId="org.eclipse.gef.ui.palette_view">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_Gim_YUcLEe6LP4wwRqe4tg" elementId="org.eclipse.gef.ui.palette_view" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_GiNWwEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.thumbnail" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#xc378;&#xb124;&#xc77c;" iconURI="platform:/plugin/com.tomato.exerd.core/icon/common/thumbnail.gif" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewClass" value="com.tomato.exerd.thumbnail.ThumbnailView"/>
+      <persistedState key="originalCompatibilityViewBundle" value="com.tomato.exerd.core"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:eXERD</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
+      <menus xmi:id="_GmQJQEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.thumbnail">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_GmQJQUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.thumbnail" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_GiN90EcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.modelview3.ModelView3" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#xbaa8;&#xb378;" iconURI="platform:/plugin/com.tomato.exerd.modelview/icon/model.gif" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewClass" value="com.tomato.exerd.modelview.ModelView"/>
+      <persistedState key="originalCompatibilityViewBundle" value="com.tomato.exerd.modelview"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:eXERD</tags>
+      <menus xmi:id="_GmeLsEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.modelview3.ModelView3">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_GmeLsUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.modelview3.ModelView3" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_GiOk4EcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.domain" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#xb3c4;&#xba54;&#xc778;" iconURI="platform:/plugin/com.tomato.exerd.core/icon/model/domain.gif" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewClass" value="com.tomato.exerd.domain.DomainView"/>
+      <persistedState key="originalCompatibilityViewBundle" value="com.tomato.exerd.core"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:eXERD</tags>
+      <menus xmi:id="_Gi-LwEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.domain">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_Gi-LwUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.domain" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_GiPL8EcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.validate.ui.ValidateView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#xac80;&#xd1a0;" iconURI="platform:/plugin/com.tomato.exerd.core/icon/common/valid.gif" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewClass" value="com.tomato.exerd.validate.ui.ValidateView"/>
+      <persistedState key="originalCompatibilityViewBundle" value="com.tomato.exerd.core"/>
+      <tags>View</tags>
+      <tags>categoryTag:eXERD</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_GiRBIEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.xscript.ScriptView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="XScript" iconURI="platform:/plugin/com.tomato.exerd.xscript/icons/script.gif" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewClass" value="com.tomato.exerd.xscript.ScriptView"/>
+      <persistedState key="originalCompatibilityViewBundle" value="com.tomato.exerd.xscript"/>
+      <tags>View</tags>
+      <tags>categoryTag:eXERD</tags>
+    </sharedElements>
     <trimBars xmi:id="_Gq4IOEY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.eclipse.platform">
       <children xsi:type="menu:ToolBar" xmi:id="_Gq4IOUY_Ee6V85sYGNRYkQ" elementId="group.file" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -934,7 +1089,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Gq4IO0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Gq4IQ0Y_Ee6V85sYGNRYkQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Gq57bkY_Ee6V85sYGNRYkQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_DuzbAEcLEe6LP4wwRqe4tg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Gq57bkY_Ee6V85sYGNRYkQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Gq4ISEY_Ee6V85sYGNRYkQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -977,10 +1132,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Gq4Ip0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Gq4IrUY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_Gq57EUY_Ee6V85sYGNRYkQ"/>
-      </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_Gq4IskY_Ee6V85sYGNRYkQ" elementId="org.eclipse.jdt.ui.CompilationUnitEditor" visible="false">
-        <tags>Draggable</tags>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Du13QEcLEe6LP4wwRqe4tg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_Gq57EUY_Ee6V85sYGNRYkQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Gq4Is0Y_Ee6V85sYGNRYkQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1024,6 +1176,10 @@
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_Gq4I1kY_Ee6V85sYGNRYkQ" elementId="org.eclipse.debug.internal.ui.NavigatorFolderView(IDEWindow).(org.eclipse.debug.ui.DebugPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_D8Dz4EcLEe6LP4wwRqe4tg" elementId="org.eclipse.ui.ide.perspectivestack(minimized)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
@@ -1321,6 +1477,7 @@
     <bindings xmi:id="_Gq4sE0Y_Ee6V85sYGNRYkQ" keySequence="ALT+SHIFT+D O" command="_Gq56OkY_Ee6V85sYGNRYkQ"/>
     <bindings xmi:id="_Gq4sFEY_Ee6V85sYGNRYkQ" keySequence="ALT+SHIFT+D P" command="_Gq57aEY_Ee6V85sYGNRYkQ"/>
     <bindings xmi:id="_Gq4sFUY_Ee6V85sYGNRYkQ" keySequence="ALT+SHIFT+D Q" command="_Gq555UY_Ee6V85sYGNRYkQ"/>
+    <bindings xmi:id="_Di67I0cLEe6LP4wwRqe4tg" keySequence="CTRL+T" command="_Dip1bkcLEe6LP4wwRqe4tg"/>
   </bindingTables>
   <bindingTables xmi:id="_Gq4sFkY_Ee6V85sYGNRYkQ" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" bindingContext="_Gq4tYUY_Ee6V85sYGNRYkQ">
     <bindings xmi:id="_Gq4sF0Y_Ee6V85sYGNRYkQ" keySequence="CTRL+CR" command="_Gq5WT0Y_Ee6V85sYGNRYkQ"/>
@@ -1636,6 +1793,95 @@
   <bindingTables xmi:id="_Gq4tKUY_Ee6V85sYGNRYkQ" bindingContext="_Gq4tmUY_Ee6V85sYGNRYkQ"/>
   <bindingTables xmi:id="_Gq4tKkY_Ee6V85sYGNRYkQ" bindingContext="_Gq4tmkY_Ee6V85sYGNRYkQ"/>
   <bindingTables xmi:id="_Gq4tK0Y_Ee6V85sYGNRYkQ" bindingContext="_Gq4tm0Y_Ee6V85sYGNRYkQ"/>
+  <bindingTables xmi:id="_Di2psEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.editor.DiagramEditorWithCellEditing" bindingContext="_DisRpEcLEe6LP4wwRqe4tg">
+    <bindings xmi:id="_Di5F8EcLEe6LP4wwRqe4tg" keySequence="CTRL+SHIFT+CR" command="_Dip1bUcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di5F80cLEe6LP4wwRqe4tg" keySequence="CTRL+CR" command="_DiqcjkcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di67IkcLEe6LP4wwRqe4tg" keySequence="CTRL+T" command="_Dip1dkcLEe6LP4wwRqe4tg"/>
+  </bindingTables>
+  <bindingTables xmi:id="_Di5F8UcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.context.domain" bindingContext="_DisRqEcLEe6LP4wwRqe4tg">
+    <bindings xmi:id="_Di5F8kcLEe6LP4wwRqe4tg" keySequence="CTRL+SHIFT+CR" command="_Dip1ckcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di5F9EcLEe6LP4wwRqe4tg" keySequence="CTRL+CR" command="_DiqcdkcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di7iMUcLEe6LP4wwRqe4tg" keySequence="CTRL+F" command="_DiqciEcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di8JQEcLEe6LP4wwRqe4tg" keySequence="F2" command="_DiqcvEcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di9-cEcLEe6LP4wwRqe4tg" keySequence="DEL" command="_DiqcrUcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di-lgEcLEe6LP4wwRqe4tg" keySequence="CR" command="_Diqce0cLEe6LP4wwRqe4tg"/>
+  </bindingTables>
+  <bindingTables xmi:id="_Di5F9UcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.editor2.TermDictionaryEditor2" bindingContext="_DisRqUcLEe6LP4wwRqe4tg">
+    <bindings xmi:id="_Di5F9kcLEe6LP4wwRqe4tg" keySequence="CTRL+CR" command="_DiqcdEcLEe6LP4wwRqe4tg"/>
+  </bindingTables>
+  <bindingTables xmi:id="_Di5F90cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.context.scriptEditor" bindingContext="_DisRpkcLEe6LP4wwRqe4tg">
+    <bindings xmi:id="_Di5F-EcLEe6LP4wwRqe4tg" keySequence="CTRL+CR" command="_Diqcm0cLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di5tAUcLEe6LP4wwRqe4tg" keySequence="CTRL+/" command="_DiqclkcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di6UEEcLEe6LP4wwRqe4tg" keySequence="CTRL+SPACE" command="_DiqckUcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di6UFEcLEe6LP4wwRqe4tg" keySequence="CTRL+SHIFT+F" command="_DiqcekcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di8wXEcLEe6LP4wwRqe4tg" keySequence="CTRL+SHIFT+ARROW_DOWN" command="_Dip1YUcLEe6LP4wwRqe4tg"/>
+  </bindingTables>
+  <bindingTables xmi:id="_Di5F-UcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.context.viewScriptEditor" bindingContext="_DisRp0cLEe6LP4wwRqe4tg">
+    <bindings xmi:id="_Di5F-kcLEe6LP4wwRqe4tg" keySequence="CTRL+CR" command="_Diqcm0cLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di5tAEcLEe6LP4wwRqe4tg" keySequence="CTRL+/" command="_DiqclkcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di6UEUcLEe6LP4wwRqe4tg" keySequence="CTRL+SPACE" command="_DiqckUcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di6UFUcLEe6LP4wwRqe4tg" keySequence="CTRL+SHIFT+F" command="_DiqcekcLEe6LP4wwRqe4tg"/>
+  </bindingTables>
+  <bindingTables xmi:id="_Di5F-0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.validate.ui.ValidateViewPage" bindingContext="_DisRoUcLEe6LP4wwRqe4tg">
+    <bindings xmi:id="_Di5F_EcLEe6LP4wwRqe4tg" keySequence="CTRL+1" command="_DiqcrkcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di8wWUcLEe6LP4wwRqe4tg" keySequence="F5" command="_Dip1h0cLEe6LP4wwRqe4tg"/>
+  </bindingTables>
+  <bindingTables xmi:id="_Di6UEkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.editor.DiagramEditor" bindingContext="_DisRpUcLEe6LP4wwRqe4tg">
+    <bindings xmi:id="_Di6UE0cLEe6LP4wwRqe4tg" keySequence="CTRL+SHIFT+F" command="_Dip1hkcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di67IEcLEe6LP4wwRqe4tg" keySequence="CTRL+R" command="_DiqcgEcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di67IUcLEe6LP4wwRqe4tg" elementId="mode" name="mode" value="relations"/>
+    </bindings>
+    <bindings xmi:id="_Di67JEcLEe6LP4wwRqe4tg" keySequence="CTRL+O" command="_DiqckEcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di7iMEcLEe6LP4wwRqe4tg" keySequence="CTRL+D" command="_DiqcvUcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di8wUEcLEe6LP4wwRqe4tg" keySequence="F3" command="_DiqccEcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di8wU0cLEe6LP4wwRqe4tg" keySequence="F4" command="_DiqccEcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di8wVEcLEe6LP4wwRqe4tg" elementId="mode" name="mode" value="logical"/>
+    </bindings>
+    <bindings xmi:id="_Di8wV0cLEe6LP4wwRqe4tg" keySequence="F5" command="_DiqccEcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di8wWEcLEe6LP4wwRqe4tg" elementId="mode" name="mode" value="physical"/>
+    </bindings>
+    <bindings xmi:id="_Di9XYEcLEe6LP4wwRqe4tg" keySequence="CTRL+ARROW_UP" command="_DiqcgEcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di9XYUcLEe6LP4wwRqe4tg" elementId="mode" name="mode" value="parentTables"/>
+    </bindings>
+    <bindings xmi:id="_Di9XYkcLEe6LP4wwRqe4tg" keySequence="CTRL+ARROW_DOWN" command="_DiqcgEcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di9XY0cLEe6LP4wwRqe4tg" elementId="mode" name="mode" value="childTables"/>
+    </bindings>
+    <bindings xmi:id="_Di9XZEcLEe6LP4wwRqe4tg" keySequence="ALT+DEL" command="_Dip1ikcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di9XZUcLEe6LP4wwRqe4tg" keySequence="`" command="_Dip1Y0cLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di9-c0cLEe6LP4wwRqe4tg" keySequence="1" command="_DiqcpkcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di9-dEcLEe6LP4wwRqe4tg" elementId="toolEntryClass" name="toolEntryClass" value="com.tomato.exerd.palette.CSelectionToolEntry"/>
+    </bindings>
+    <bindings xmi:id="_Di9-dUcLEe6LP4wwRqe4tg" keySequence="2" command="_DiqcpkcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di9-dkcLEe6LP4wwRqe4tg" elementId="toolEntryClass" name="toolEntryClass" value="com.tomato.exerd.palette.PanToolEntry"/>
+    </bindings>
+    <bindings xmi:id="_Di9-d0cLEe6LP4wwRqe4tg" keySequence="3" command="_DiqcpkcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di9-eEcLEe6LP4wwRqe4tg" elementId="toolEntryClass" name="toolEntryClass" value="com.tomato.exerd.palette.NewTableToolEntry"/>
+    </bindings>
+    <bindings xmi:id="_Di9-eUcLEe6LP4wwRqe4tg" keySequence="4" command="_DiqcpkcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di9-ekcLEe6LP4wwRqe4tg" elementId="toolEntryClass" name="toolEntryClass" value="com.tomato.exerd.palette.NewNonIdentifyingRelationToolEntry"/>
+    </bindings>
+    <bindings xmi:id="_Di9-e0cLEe6LP4wwRqe4tg" keySequence="5" command="_DiqcpkcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di9-fEcLEe6LP4wwRqe4tg" elementId="toolEntryClass" name="toolEntryClass" value="com.tomato.exerd.palette.NewIdentifyingRelationToolEntry"/>
+    </bindings>
+    <bindings xmi:id="_Di9-fUcLEe6LP4wwRqe4tg" keySequence="6" command="_DiqcpkcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di9-fkcLEe6LP4wwRqe4tg" elementId="toolEntryClass" name="toolEntryClass" value="com.tomato.exerd.palette.NewNoteToolEntry"/>
+    </bindings>
+    <bindings xmi:id="_Di9-f0cLEe6LP4wwRqe4tg" keySequence="SPACE" command="_Gq57IUY_Ee6V85sYGNRYkQ"/>
+  </bindingTables>
+  <bindingTables xmi:id="_Di8wUUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.modelview3.ModelView3" bindingContext="_DisRoEcLEe6LP4wwRqe4tg">
+    <bindings xmi:id="_Di8wUkcLEe6LP4wwRqe4tg" keySequence="F3" command="_DiqccEcLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di8wVUcLEe6LP4wwRqe4tg" keySequence="F4" command="_DiqccEcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di8wVkcLEe6LP4wwRqe4tg" elementId="mode" name="mode" value="logical"/>
+    </bindings>
+    <bindings xmi:id="_Di8wWkcLEe6LP4wwRqe4tg" keySequence="F5" command="_DiqccEcLEe6LP4wwRqe4tg">
+      <parameters xmi:id="_Di8wW0cLEe6LP4wwRqe4tg" elementId="mode" name="mode" value="physical"/>
+    </bindings>
+    <bindings xmi:id="_Di9XZkcLEe6LP4wwRqe4tg" keySequence="`" command="_Dip1Y0cLEe6LP4wwRqe4tg"/>
+    <bindings xmi:id="_Di9-gEcLEe6LP4wwRqe4tg" keySequence="SPACE" command="_Gq57IUY_Ee6V85sYGNRYkQ"/>
+  </bindingTables>
+  <bindingTables xmi:id="_Di9-cUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.editor.TermsEditor" bindingContext="_DisRo0cLEe6LP4wwRqe4tg">
+    <bindings xmi:id="_Di9-ckcLEe6LP4wwRqe4tg" keySequence="DEL" command="_Gq5Vv0Y_Ee6V85sYGNRYkQ"/>
+  </bindingTables>
   <rootContext xmi:id="_Gq4tLEY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.contexts.dialogAndWindow" contributorURI="platform:/plugin/org.eclipse.platform" name="In Dialogs and Windows" description="Either a dialog or a window is open">
     <children xmi:id="_Gq4tLUY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.contexts.window" contributorURI="platform:/plugin/org.eclipse.platform" name="In Windows" description="A window is open">
       <children xmi:id="_Gq4tLkY_Ee6V85sYGNRYkQ" elementId="org.eclipse.e4.ui.contexts.views" contributorURI="platform:/plugin/org.eclipse.platform" name="%bindingcontext.name.bindingView"/>
@@ -1679,6 +1925,7 @@
         </children>
         <children xmi:id="_Gq4tUkY_Ee6V85sYGNRYkQ" elementId="org.eclipse.jdt.ui.propertiesEditorScope" name="Editing Properties Files" description="Editing Properties Files Context"/>
         <children xmi:id="_Gq4tU0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.jst.jsf.facesconfig.editorContext" name="In Faces Config Editor" description="Key binding context when using the Faces Config Editor"/>
+        <children xmi:id="_DisRpkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.context.scriptEditor" name="X&#xc2a4;&#xd06c;&#xb9bd;&#xd2b8; &#xd3b8;&#xc9d1;&#xc911;"/>
       </children>
       <children xmi:id="_Gq4tVEY_Ee6V85sYGNRYkQ" elementId="org.eclipse.compare.compareEditorScope" name="Comparing in an Editor" description="Comparing in an Editor"/>
       <children xmi:id="_Gq4tVUY_Ee6V85sYGNRYkQ" elementId="org.eclipse.debug.ui.memoryview" name="In Memory View" description="In memory view"/>
@@ -1699,8 +1946,19 @@
       <children xmi:id="_Gq4tY0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.egit.ui.RepositoriesView" name="In Git Repositories View">
         <children xmi:id="_Gq4tZEY_Ee6V85sYGNRYkQ" elementId="org.eclipse.egit.ui.RepositoriesView.SingleRepository" name="In Git Repositories View"/>
       </children>
+      <children xmi:id="_DisRoEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.modelview3.ModelView3" name="eXERD &#xbaa8;&#xb378;"/>
+      <children xmi:id="_DisRoUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.validate.ui.ValidateViewPage" name="&#xac80;&#xd1a0; &#xbdf0;&#xc5d0;&#xc11c;"/>
+      <children xmi:id="_DisRokcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.termEditor" name="eXERD &#xc6a9;&#xc5b4; &#xd3b8;&#xc9d1;&#xae30;&#xc5d0;&#xc11c;(&#xc0ac;&#xc6a9;&#xc548;&#xd568;)">
+        <children xmi:id="_DisRo0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.editor.TermsEditor" name="eXERD &#xc6a9;&#xc5b4; &#xb9ac;&#xc2a4;&#xd2b8; &#xd3b8;&#xc9d1;&#xae30;&#xc5d0;&#xc11c;(&#xc0ac;&#xc6a9;&#xc548;&#xd568;)"/>
+      </children>
+      <children xmi:id="_DisRpEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.editor.DiagramEditorWithCellEditing" name="ex ERD &#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8; &#xd3b8;&#xc9d1;&#xae30;(&#xc140;&#xc5d0;&#xb514;&#xd305; &#xc0c1;&#xd0dc; &#xd3ec;&#xd568;)">
+        <children xmi:id="_DisRpUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.editor.DiagramEditor" name="eX ERD &#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8; &#xd3b8;&#xc9d1;&#xae30;" description="eX ERD &#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8; &#xd3b8;&#xc9d1;&#xae30;"/>
+      </children>
+      <children xmi:id="_DisRqEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.context.domain" name="&#xb3c4;&#xba54;&#xc778; &#xbdf0;&#xc5d0;&#xc11c;" description="&#xb3c4;&#xba54;&#xc778; &#xbdf0;"/>
+      <children xmi:id="_DisRqUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.editor2.TermDictionaryEditor2" name="eXERD &#xc6a9;&#xc5b4; &#xb9ac;&#xc2a4;&#xd2b8; &#xd3b8;&#xc9d1;&#xae30;&#xc5d0;&#xc11c;"/>
     </children>
     <children xmi:id="_Gq4tZUY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.contexts.dialog" contributorURI="platform:/plugin/org.eclipse.platform" name="In Dialogs" description="A dialog is open"/>
+    <children xmi:id="_DisRp0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.context.viewScriptEditor" name="X&#xc2a4;&#xd06c;&#xb9bd;&#xd2b8; &#xbdf0; &#xd3b8;&#xc9d1;&#xc911;"/>
   </rootContext>
   <rootContext xmi:id="_Gq4tZkY_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.contexts.workbenchMenu" name="Workbench Menu" description="When no Workbench windows are active"/>
   <rootContext xmi:id="_Gq4tZ0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.jdt.ui.breadcrumbEditorScope" name="Editor Breadcrumb Navigation" description="Editor Breadcrumb Navigation Context"/>
@@ -2291,18 +2549,48 @@
     <tags>View</tags>
     <tags>categoryTag:XML</tags>
   </descriptors>
-  <trimContributions xmi:id="_Gq5VD0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
-    <children xsi:type="menu:ToolControl" xmi:id="_Gq5VEEY_Ee6V85sYGNRYkQ" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+  <descriptors xmi:id="_DtRJ8EcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.thumbnail" label="&#xc378;&#xb124;&#xc77c;" iconURI="platform:/plugin/com.tomato.exerd.core/icon/common/thumbnail.gif" tooltip="" category="eXERD" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="com.tomato.exerd.thumbnail.ThumbnailView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="com.tomato.exerd.core"/>
+    <tags>View</tags>
+    <tags>categoryTag:eXERD</tags>
+  </descriptors>
+  <descriptors xmi:id="_DtRxAEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.views.domain" label="&#xb3c4;&#xba54;&#xc778;" iconURI="platform:/plugin/com.tomato.exerd.core/icon/model/domain.gif" tooltip="" category="eXERD" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="com.tomato.exerd.domain.DomainView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="com.tomato.exerd.core"/>
+    <tags>View</tags>
+    <tags>categoryTag:eXERD</tags>
+  </descriptors>
+  <descriptors xmi:id="_DtSYEEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.validate.ui.ValidateView" label="&#xac80;&#xd1a0;" iconURI="platform:/plugin/com.tomato.exerd.core/icon/common/valid.gif" tooltip="" category="eXERD" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="com.tomato.exerd.validate.ui.ValidateView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="com.tomato.exerd.core"/>
+    <tags>View</tags>
+    <tags>categoryTag:eXERD</tags>
+  </descriptors>
+  <descriptors xmi:id="_DtS_IEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.modelview3.ModelView3" label="&#xbaa8;&#xb378;" iconURI="platform:/plugin/com.tomato.exerd.modelview/icon/model.gif" tooltip="" category="eXERD" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="com.tomato.exerd.modelview.ModelView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="com.tomato.exerd.modelview"/>
+    <tags>View</tags>
+    <tags>categoryTag:eXERD</tags>
+  </descriptors>
+  <descriptors xmi:id="_DtTmMEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.xscript.ScriptView" label="XScript" iconURI="platform:/plugin/com.tomato.exerd.xscript/icons/script.gif" tooltip="" category="eXERD" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="com.tomato.exerd.xscript.ScriptView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="com.tomato.exerd.xscript"/>
+    <tags>View</tags>
+    <tags>categoryTag:eXERD</tags>
+  </descriptors>
+  <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
+    <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
       <tags>glue</tags>
       <tags>move_after:PerspectiveSpacer</tags>
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
-    <children xsi:type="menu:ToolControl" xmi:id="_Gq5VEUY_Ee6V85sYGNRYkQ" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
+    <children xsi:type="menu:ToolControl" xmi:id="_8tJPcF9tEeO-yojH_y4TJA" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
       <tags>move_after:Spacer Glue</tags>
       <tags>HIDEABLE</tags>
       <tags>SHOW_RESTORE_MENU</tags>
     </children>
-    <children xsi:type="menu:ToolControl" xmi:id="_Gq5VEkY_Ee6V85sYGNRYkQ" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+    <children xsi:type="menu:ToolControl" xmi:id="_9LgmcF9tEeO-yojH_y4TJA" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
       <tags>glue</tags>
       <tags>move_after:SearchField</tags>
       <tags>SHOW_RESTORE_MENU</tags>
@@ -3574,6 +3862,150 @@
   <commands xmi:id="_Gq58z0Y_Ee6V85sYGNRYkQ" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.context.ui.actions.tasklist.focus" commandName="Focus on Workweek" description="Focus on Workweek" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
   <commands xmi:id="_Gq580EY_Ee6V85sYGNRYkQ" elementId="AUTOGEN:::org.eclipse.pde.ui.logViewActions/org.eclipse.jdt.debug.ui.LogViewActions.showStackTrace" commandName="Show Stack Trace in Console View" description="Show Stack Trace in Console View" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
   <commands xmi:id="_Gq580UY_Ee6V85sYGNRYkQ" elementId="AUTOGEN:::org.eclipse.ui.articles.action.contribution.view/org.eclipse.wst.wsi.ui.internal.actions.actionDelegates.ValidateWSIProfileActionDelegate" commandName="WS-I Profile Validator" description="Validate WS-I Message Log File" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_Dip1YEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.domain.export" commandName="&#xb3c4;&#xba54;&#xc778; &#xb0b4;&#xbcf4;&#xb0b4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1YUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.sendScriptToView" commandName="X&#xc2a4;&#xd06c;&#xb9bd;&#xd2b8; &#xbdf0;&#xb85c; &#xbcf4;&#xb0b4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1YkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.editstyle" commandName="&#xc2a4;&#xd0c0;&#xc77c; &#xc9c0;&#xc815;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1Y0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.setName" commandName="&#xbe60;&#xb978; &#xd3b8;&#xc9d1;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Dip1ZEcLEe6LP4wwRqe4tg" elementId="target" name="&#xc774;&#xb984; &#xbcc0;&#xacbd; &#xb300;&#xc0c1;(&#xc0dd;&#xb7b5;&#xc2dc; &#xd504;&#xb77c;&#xc774;&#xba38;&#xb9ac; &#xc140;&#xb809;&#xc158;) : [diagram]"/>
+  </commands>
+  <commands xmi:id="_Dip1ZUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.modelview.command1" commandName="&#xbaa8;&#xb378;&#xbdf0;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_Dip1ZkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.copyColumnFilterToSameTables" commandName="&#xb3d9;&#xc77c;&#xd55c; &#xc5c5;&#xbb34;&#xc601;&#xc5ed;&#xc758; &#xb2e4;&#xb978; &#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8;&#xc5d0;&#xb3c4; &#xb3d9;&#xc77c; &#xc124;&#xc815; &#xc801;&#xc6a9;" description="&#xb2e4;&#xb978; &#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8;&#xb4e4;&#xc5d0; &#xb193;&#xc778; &#xac19;&#xc740; &#xd14c;&#xc774;&#xbe14;&#xb4e4;&#xc5d0; &#xb300;&#xd574; &#xb3d9;&#xc77c;&#xd55c; &#xd544;&#xd130;&#xb97c; &#xc801;&#xc6a9;&#xd569;&#xb2c8;&#xb2e4;." category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1Z0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.forward.command.forwardEngineering" commandName="&#xd3ec;&#xc6cc;&#xb4dc; &#xc5d4;&#xc9c0;&#xb2c8;&#xc5b4;&#xb9c1;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1aEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.fold" commandName="&#xd3bc;&#xce58;&#xae30; / &#xc811;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Dip1aUcLEe6LP4wwRqe4tg" elementId="level" name="level" optional="false"/>
+  </commands>
+  <commands xmi:id="_Dip1akcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.newDiagram" commandName="&#xc0c8; &#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1a0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.setActiveSchema" commandName="&#xd65c;&#xc131; &#xc2a4;&#xd0a4;&#xb9c8;&#xb85c; &#xc9c0;&#xc815;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1bEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.xscript.command.openScriptView" commandName="&#xc2a4;&#xd06c;&#xb9bd;&#xd2b8; &#xc791;&#xc131;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_Dip1bUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.createPrimaryKey" commandName="&#xd504;&#xb77c;&#xc774;&#xba38;&#xb9ac; &#xd0a4; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1bkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.command.setTag" commandName="&#xd0dc;&#xadf8; &#xc9c0;&#xc815;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1b0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.xscript.command.loadXScript" commandName="X&#xc2a4;&#xd06c;&#xb9bd;&#xd2b8; &#xc5f4;&#xae30;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_Dip1cEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.changeViewSettingPreset" commandName="&#xbcf4;&#xae30; &#xc124;&#xc815; &#xd504;&#xb9ac;&#xc14b; &#xbcc0;&#xacbd;" category="_Gq58-EY_Ee6V85sYGNRYkQ">
+    <parameters xmi:id="_Dip1cUcLEe6LP4wwRqe4tg" elementId="name" name="&#xbcf4;&#xae30; &#xc124;&#xc815; &#xc774;&#xb984;" optional="false"/>
+  </commands>
+  <commands xmi:id="_Dip1ckcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.createChildDomain" commandName="&#xc790;&#xc2dd; &#xb3c4;&#xba54;&#xc778; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1c0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.intro.showsample" commandName="eXERD &#xc0d8;&#xd50c; &#xbcf4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Dip1dEcLEe6LP4wwRqe4tg" elementId="zip" name="ZIP &#xd30c;&#xc77c; &#xc774;&#xb984;" optional="false"/>
+    <parameters xmi:id="_Dip1dUcLEe6LP4wwRqe4tg" elementId="fileToOpen" name="&#xc608;&#xc81c; &#xc0dd;&#xc131;&#xd6c4; &#xc5d0;&#xb514;&#xd130;&#xc5d0;&#xc11c; &#xc5f4;&#xb9b4; &#xd30c;&#xc77c;"/>
+  </commands>
+  <commands xmi:id="_Dip1dkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.openTableSelectionDialog" commandName="&#xd14c;&#xc774;&#xbe14; &#xcc3e;&#xae30;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_Dip1d0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.createTable" commandName="&#xd14c;&#xc774;&#xbe14; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Dip1eEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.commandParameter.with" name="with"/>
+  </commands>
+  <commands xmi:id="_Dip1eUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.xscript.command.importXScript" commandName="X&#xc2a4;&#xd06c;&#xb9bd;&#xd2b8; &#xcd94;&#xac00;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_Dip1ekcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.filterTable" commandName="&#xceec;&#xb7fc; &#xd45c;&#xc2dc; &#xc124;&#xc815;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Dip1e0cLEe6LP4wwRqe4tg" elementId="filter" name="filter" optional="false"/>
+  </commands>
+  <commands xmi:id="_Dip1fEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.compare.file" commandName="&#xd30c;&#xc77c; &#xbe44;&#xad50;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1fUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.align" commandName="&#xc815;&#xb82c;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Dip1fkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.align.type" name="&#xc815;&#xb82c; &#xd0c0;&#xc785;" optional="false"/>
+  </commands>
+  <commands xmi:id="_Dip1f0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.newFunction" commandName="&#xd391;&#xc158; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Dip1gEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.commandParameter.with" name="with"/>
+  </commands>
+  <commands xmi:id="_Dip1gUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.erwin.command.import" commandName="ERwin XML" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_Dip1gkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.domain.import" commandName="&#xb3c4;&#xba54;&#xc778; &#xac00;&#xc838;&#xc624;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1g0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.confirmversion" commandName="eXERD &#xbc84;&#xc804; &#xd655;&#xc778;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1hEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.newView" commandName="&#xbdf0; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Dip1hUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.commandParameter.with" name="with"/>
+  </commands>
+  <commands xmi:id="_Dip1hkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.autoAllocate" commandName="&#xc790;&#xb3d9; &#xbc30;&#xce58;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1h0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.refreshValidation" commandName="&#xbaa8;&#xb378; &#xac80;&#xc0ac;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1iEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.editDiagramOrder" commandName="&#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8; &#xc21c;&#xc11c; &#xbcc0;&#xacbd;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1iUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.propertyPage" commandName="&#xc18d;&#xc131; &#xb300;&#xd654;&#xc0c1;&#xc790;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Dip1ikcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.deleteModel" commandName="DB &#xbaa8;&#xb378;&#xc5d0;&#xc11c; &#xc9c0;&#xc6b0;&#xae30;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_Dip1i0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.configTermDictionary" commandName="&#xc6a9;&#xc5b4; &#xc0ac;&#xc804; &#xc124;&#xc815;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqccEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.changeInteractionMode" commandName="&#xb17c;&#xb9ac; &#xbb3c;&#xb9ac; &#xbaa8;&#xb4dc; &#xbcc0;&#xacbd;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_DiqccUcLEe6LP4wwRqe4tg" elementId="mode" name="&#xc778;&#xd130;&#xc561;&#xc158; &#xbaa8;&#xb4dc;" optional="false"/>
+  </commands>
+  <commands xmi:id="_DiqcckcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.view.domain.sort.ascending" commandName="&#xb3c4;&#xba54;&#xc778; &#xc624;&#xb984;&#xcc28;&#xc21c; &#xc815;&#xb82c;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqcc0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.crop" commandName="&#xc120;&#xd0dd; &#xc694;&#xc18c;&#xb9cc; &#xb0a8;&#xae30;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcdEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.command.newTerm" commandName="&#xc0c8; &#xc6a9;&#xc5b4; &#xb9cc;&#xb4e4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcdUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.binaryDump" commandName="&#xbc14;&#xc774;&#xb108;&#xb9ac; &#xb364;&#xd504; &#xd30c;&#xc77c; &#xc0dd;&#xc131;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcdkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.createDomain" commandName="&#xb3c4;&#xba54;&#xc778; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqcd0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.compare.database" commandName="&#xb370;&#xc774;&#xd130; &#xbca0;&#xc774;&#xc2a4;&#xc640; &#xbe44;&#xad50;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqceEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.report.database.command.reportmodel" commandName="&#xbaa8;&#xb378;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_DiqceUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.closeOtherDiagrams" commandName="&#xb2e4;&#xb978; &#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8;&#xb4e4; &#xb2eb;&#xae30;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_DiqcekcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.xscript.format" commandName="&#xcf54;&#xb4dc; &#xbaa8;&#xc591; &#xb2e4;&#xb4ec;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqce0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.editValue" commandName="&#xac12; &#xd3b8;&#xc9d1;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcfEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.setColumnColorTag" commandName="&#xc0c9;&#xc0c1; &#xd0dc;&#xadf8; &#xbd99;&#xc774;&#xae30;" category="_Gq58-EY_Ee6V85sYGNRYkQ">
+    <parameters xmi:id="_DiqcfUcLEe6LP4wwRqe4tg" elementId="color" name="&#xd0dc;&#xadf8; &#xc0c9;&#xc0c1;" typeId="paramTypeRGB"/>
+  </commands>
+  <commands xmi:id="_DiqcfkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.reverse.reverseDatabaseToModel" commandName="&#xb9ac;&#xbc84;&#xc2a4; &#xc5d4;&#xc9c0;&#xb2c8;&#xc5b4;&#xb9c1;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Diqcf0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.reverse.commandParameter1" name="name"/>
+  </commands>
+  <commands xmi:id="_DiqcgEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.select" commandName="&#xc120;&#xd0dd;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_DiqcgUcLEe6LP4wwRqe4tg" elementId="mode" name="&#xc120;&#xd0dd; &#xbaa8;&#xb4dc;" optional="false"/>
+  </commands>
+  <commands xmi:id="_DiqcgkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.toogleColumnVisible" commandName="&#xceec;&#xb7fc; &#xbcf4;&#xae30; &#xc124;&#xc815;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Diqcg0cLEe6LP4wwRqe4tg" elementId="cellType" name="&#xc140; &#xd0c0;&#xc785;" optional="false"/>
+  </commands>
+  <commands xmi:id="_DiqchEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.command.export" commandName="&#xc6a9;&#xc5b4;&#xc0ac;&#xc804; &#xb0b4;&#xbcf4;&#xb0b4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqchUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.exportModel" commandName="&#xd15c;&#xd50c;&#xb9bf;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_DiqchkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.view.domain.sort.descending" commandName="&#xb3c4;&#xba54;&#xc778; &#xb0b4;&#xb9bc;&#xcc28;&#xc21c; &#xc815;&#xb82c;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqch0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.sortPrimaryKey" commandName="&#xd504;&#xb77c;&#xc774;&#xba38;&#xb9ac; &#xd0a4; &#xc815;&#xb82c;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqciEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.view.domain.search" commandName="&#xb3c4;&#xba54;&#xc778; &#xac80;&#xc0c9;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqciUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.printsetup" commandName="&#xc778;&#xc1c4; &#xc124;&#xc815;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_DiqcikcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.preference" commandName="&#xd658;&#xacbd;&#xc124;&#xc815;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqci0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.xscript.command.XScriptWizard" commandName="&#xc815;&#xc758;&#xb41c; X&#xc2a4;&#xd06c;&#xb9bd;&#xd2b8; &#xc2e4;&#xd589;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_DiqcjEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.newSchema" commandName="&#xc2a4;&#xd0a4;&#xb9c8; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcjUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.duplicateDiagram" commandName="&#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8; &#xc0ac;&#xbcf8; &#xb9cc;&#xb4e4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcjkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.createColumn" commandName="&#xceec;&#xb7fc; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqcj0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.command.import" commandName="&#xc6a9;&#xc5b4;&#xc0ac;&#xc804; &#xb4e4;&#xc5ec;&#xc624;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqckEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.quickTableAccess" commandName="&#xd14c;&#xc774;&#xbe14; &#xac1c;&#xc694; &#xbcf4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqckUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.contentassist" commandName="&#xcee8;&#xd150;&#xd2b8; &#xc5b4;&#xc2dc;&#xc2a4;&#xd2b8;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqckkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.modelview.ui.command.newBusinessArea" commandName="&#xc0c8; &#xc5c5;&#xbb34;&#xc601;&#xc5ed; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqck0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.hideRelation" commandName="&#xad00;&#xacc4; &#xac10;&#xcd94;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqclEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.sendToBusinessArea" commandName="&#xc5c5;&#xbb34;&#xc601;&#xc5ed;&#xc73c;&#xb85c; &#xbcf4;&#xb0b4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_DiqclUcLEe6LP4wwRqe4tg" elementId="businessAreaName" name="&#xc5c5;&#xbb34;&#xc601;&#xc5ed;&#xc758; &#xc774;&#xb984;" optional="false"/>
+  </commands>
+  <commands xmi:id="_DiqclkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.xscript.comment" commandName="&#xc8fc;&#xc11d;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqcl0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.setActiveBusinessArea" commandName="&#xd65c;&#xc131; &#xc5c5;&#xbb34;&#xc601;&#xc5ed;&#xc73c;&#xb85c; &#xc9c0;&#xc815;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcmEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.convertToXml" commandName="ERD&#xd30c;&#xc77c;&#xc744; XML&#xb85c; &#xc804;&#xd658;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcmUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.domain.import2" commandName="&#xb3c4;&#xba54;&#xc778; &#xac00;&#xc838;&#xc624;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcmkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.setPrimaryKey" commandName="&#xd504;&#xb77c;&#xc774;&#xba38;&#xb9ac;&#xd0a4;&#xb85c; &#xc9c0;&#xc815;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqcm0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.executeXScript" commandName="X&#xc2a4;&#xd06c;&#xb9bd;&#xd2b8; &#xc2e4;&#xd589;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcnEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.restoreExerdPerspective" commandName="eXERD Perspective &#xbcf5;&#xc6d0;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_DiqcnUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.command.reverse" commandName="&#xc6a9;&#xc5b4;&#xc0ac;&#xc804; &#xc5ed;&#xacf5;&#xd559;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcnkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.closeDiagram" commandName="&#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8; &#xb2eb;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqcn0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.setColor" commandName="&#xc0c9;&#xc0c1; &#xbcc0;&#xacbd;" category="_Gq58-EY_Ee6V85sYGNRYkQ">
+    <parameters xmi:id="_DiqcoEcLEe6LP4wwRqe4tg" elementId="colorProperty" name="&#xbcc0;&#xacbd;&#xd560; &#xc0c9;&#xc0c1;&#xc774; &#xc801;&#xc6a9;&#xb420; &#xc18d;&#xc131; id"/>
+    <parameters xmi:id="_DiqcoUcLEe6LP4wwRqe4tg" elementId="preset" name="&#xd504;&#xb9ac;&#xc14b;"/>
+  </commands>
+  <commands xmi:id="_DiqcokcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.forward.command.forwardEngineering.dev" commandName="&#xd3ec;&#xc6cc;&#xb4dc; &#xc5d4;&#xc9c0;&#xb2c8;&#xc5b4;&#xb9c1; (&#xac1c;&#xbc1c; &#xbaa8;&#xb4dc;)" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqco0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.toggleTermDictionary" commandName="&#xc6a9;&#xc5b4;&#xc0ac;&#xc804; &#xcf2c;/&#xb054;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcpEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.showRegisterKeyPage" commandName="&#xc81c;&#xd488; &#xb4f1;&#xb85d;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcpUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.showDomainMappingTable" commandName="&#xb3c4;&#xba54;&#xc778; &#xb9e4;&#xd551; &#xd14c;&#xc774;&#xbe14; &#xbcf4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcpkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.changeActiveTool" commandName="&#xd234; &#xbcc0;&#xacbd;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Diqcp0cLEe6LP4wwRqe4tg" elementId="toolEntryClass" name="&#xd234; &#xc5d4;&#xd2b8;&#xb9ac; &#xd074;&#xb798;&#xc2a4;" optional="false"/>
+  </commands>
+  <commands xmi:id="_DiqcqEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.customizeCells" commandName="&#xbcf4;&#xae30; &#xc124;&#xc815; &#xbcc0;&#xacbd;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcqUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.batchProcess" commandName="&#xc77c;&#xad04;&#xc791;&#xc5c5;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcqkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.modelview.ui.command.newDiagram" commandName="&#xc0c8; &#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqcq0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.openDomain" commandName="&#xb3c4;&#xba54;&#xc778; &#xc5f4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcrEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.command.batch" commandName="&#xc6a9;&#xc5b4; &#xc77c;&#xad04; &#xd3b8;&#xc9d1;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcrUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.removeDomain" commandName="&#xb3c4;&#xba54;&#xc778; &#xc0ad;&#xc81c;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcrkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.assistValidationResult" commandName="&#xac80;&#xd1a0; &#xacb0;&#xacfc; &#xc790;&#xb3d9; &#xc9c0;&#xc6d0;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_Diqcr0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.generateDiagram" commandName="&#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8; &#xc0dd;&#xc131;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcsEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.changeTableTheme" commandName="&#xd14c;&#xc774;&#xbe14; &#xd14c;&#xb9c8; &#xbcc0;&#xacbd;" category="_Gq58-EY_Ee6V85sYGNRYkQ">
+    <parameters xmi:id="_DiqcsUcLEe6LP4wwRqe4tg" elementId="themeLiteral" name="TableTheme Enum &#xb9ac;&#xd130;&#xb7f4;" optional="false"/>
+  </commands>
+  <commands xmi:id="_DiqcskcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.newProcedure" commandName="&#xd504;&#xb85c;&#xc2dc;&#xc800; &#xcd94;&#xac00;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_Diqcs0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.commandParameter.with" name="with"/>
+  </commands>
+  <commands xmi:id="_DiqctEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.toggleColumnHeaderVisible" commandName="&#xd14c;&#xc774;&#xbe14; &#xd5e4;&#xb354; &#xbcf4;&#xc774;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqctUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.changePerspective" commandName="&#xbcf4;&#xae30; &#xbc29;&#xc2dd;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_DiqctkcLEe6LP4wwRqe4tg" elementId="perspectiveType" name="&#xd37c;&#xc2a4;&#xd399;&#xd2f0;&#xbe0c; &#xd0c0;&#xc785;"/>
+  </commands>
+  <commands xmi:id="_Diqct0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.sendToSchema" commandName="&#xc2a4;&#xd0a4;&#xb9c8;&#xb85c; &#xbcf4;&#xb0b4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg">
+    <parameters xmi:id="_DiqcuEcLEe6LP4wwRqe4tg" elementId="schemaName" name="&#xc2a4;&#xd0a4;&#xb9c8; &#xc774;&#xb984;" optional="false"/>
+  </commands>
+  <commands xmi:id="_DiqcuUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.term.ui.command.newTag" commandName="&#xc0c8; &#xd0dc;&#xadf8; &#xb9cc;&#xb4e4;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcukcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.debug" commandName="&#xb514;&#xbc84;&#xadf8;" category="_Gq58-EY_Ee6V85sYGNRYkQ"/>
+  <commands xmi:id="_Diqcu0cLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.import" commandName="eXERD &#xac00;&#xc838;&#xc624;&#xae30;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcvEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.rename" commandName="&#xc774;&#xb984; &#xd3b8;&#xc9d1;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcvUcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.command.switchDiagram" commandName="&#xb2e4;&#xc774;&#xc5b4;&#xadf8;&#xb7a8; &#xc804;&#xd658;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
+  <commands xmi:id="_DiqcvkcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.core.ui.command.fitToGrid" commandName="&#xaca9;&#xc790; &#xb9de;&#xcda4;" category="_DipOUEcLEe6LP4wwRqe4tg"/>
   <addons xmi:id="_Gq580kY_Ee6V85sYGNRYkQ" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
   <addons xmi:id="_Gq5800Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
   <addons xmi:id="_Gq581EY_Ee6V85sYGNRYkQ" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
@@ -3641,4 +4073,5 @@
   <categories xmi:id="_Gq59EkY_Ee6V85sYGNRYkQ" elementId="org.eclipse.gef.category.view" name="View" description="View"/>
   <categories xmi:id="_Gq59E0Y_Ee6V85sYGNRYkQ" elementId="org.eclipse.jdt.ui.category.source" name="Source" description="Java Source Actions"/>
   <categories xmi:id="_Gq59FEY_Ee6V85sYGNRYkQ" elementId="org.eclipse.pde.runtime.spy.commands.category" name="Spy"/>
+  <categories xmi:id="_DipOUEcLEe6LP4wwRqe4tg" elementId="com.tomato.exerd.ui.commands.category" name="eXERD Command Category"/>
 </application:Application>
