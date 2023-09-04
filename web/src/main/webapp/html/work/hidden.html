@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>히든 객체</title>
+</head>
+<body>
+
+<!--hidden 객체 : 화면에 노출되지는 않지만, 내부적으로 값을 전닳할 경우에 사용
+
+readonly, disabled 속성
+공통점 : 입력 양식의 값을 수정할 수 없도록 비활성화 시켜주는 역할
+readonly 속성으로 설정된 양식은 action으로 설정된 페이지로 값이 전달되지만
+disabled속성으로 설정된 양식은 action으로 설정된 페이지로 값이 전달되지 않는다.
+
+
+
+-->
+
+<form action = "hidden.jsp">
+	
+	<input type = "hidden" name = "myid" value = "1234">
+	<input type = "text" name = "myid01" value = "1234" readonly><br>
+	<input type = "text" name = "myid02" value = "1234" disabled><br>
+	<input type = "submit" value = "전송">
+	
+	
+	
+	
+	
+	
+</form>
+
+
+
+
+
+
+
+
+</body>
+</html>
