@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<script>
+	
+	
+	var n1 = Number(prompt("과목1 점수를 입력하세요?", ""));
+	var n2 = Number(prompt("과목2 점수를 입력하세요?", ""));
+	var n3 = Number(prompt("과목3 점수를 입력하세요?", ""));
+	var n4 = Number(prompt("과목4 점수를 입력하세요?", ""));
+	var n5 = Number(prompt("과목5 점수를 입력하세요?", ""));
+	
+		
+	var total = n1 + n2 + n3 + n4 + n5;			/* 합이 구해지지않아 */
+
+	var avg2 = (Number(total) / 5);
+	
+	
+	
+	document.write("total = " + total + "<br>");
+
+	document.write("avg2 = " + avg2 + "<br>");
+	
+	
+	
+	console.log(total);
+	console.log(avg2);
+	
+	if(n1>=40 && n2>=40 && n3>=40 && n4>=40 && n5>=40 && avg2>=60){
+		alert("평균:"+avg2)
+		alert("합격")
+	}else{
+		alert("불합격")
+	}
+	
+	
+	
+	
+	
+	
+	
+</script>
+
+
+
+
+
+
+</body>
+</html>
