@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<script>
+	
+	/* while문 1~100까지 홀수, 짝수 합을 구하는 프로그램 작성 */
+	
+	var odd = 0 , even = 0, i = 1;
+	
+	while(i<=100){
+		if(i%2==1){
+			odd += i;
+		}else{
+			even += i;
+		}
+		i++
+	}
+	
+		document.write("홀수의 합 : " + odd + "<br>")
+		document.write("짝수의 합 : " + even + "<br>")
+	
+</script>
+
+
+</body>
+</html>
