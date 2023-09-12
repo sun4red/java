@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+
+<script>
+	
+	var c = ['blue', 'pink', 'green', 'gray', 'skyblue', 'black'];
+	
+	function change(){
+		
+		var t = new Date();
+		var s = t.getSeconds();
+		var n = s % 6; // 나머지 : 0~5
+		 
+		document.bgColor = c[n];
+		
+		w = setTimeout("change()",1000);
+		
+	}
+	
+	function stop(){
+		clearTimeout(w);
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+</script>
+
+
+
+</head>
+<body>
+
+<h3>화면색 바뀜?</h3>
+<input type = "button" value = "배경색 변경" onClick = "change()">
+<input type = "button" value = "중지" onClick = "stop()">
+
+
+</body>
+</html>

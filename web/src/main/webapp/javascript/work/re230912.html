@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>230912과제</title>
+</head>
+<body>
+
+<script>
+	
+	var rot = new Array(6);
+
+	for(var i = 0; i < rot.length; i++){
+		rot[i] = Math.ceil(Math.random()*45);
+		for(var j = 0; j < i; j++){
+			if(rot[i]==rot[j]){
+				i--;
+				break;
+			}
+		}
+	}
+	
+
+	for(var i = 0; i < rot.length; i++){
+		for(var j = i; j < rot.length; j++){
+			if(rot[i]>=rot[j]){
+				var temp = rot[j];
+				rot[j] = rot[i];
+				rot[i] = temp;
+			}
+		}
+	}
+	for(var i = 0; i < rot.length; i++){
+		document.write((i+1) + "번 째 숫자 : "+ rot[i]+"<br>");
+		}
+	
+</script>
+
+</body>
+</html>
