@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>230913 과제 - 계산기 만들기</title>
+<!-- 테이블 폼을 이용해서 칸을 만들고, 버튼에 클릭 이벤트를 만들어서 하면되지않을까 -->
+
+<style>
+	.num1{
+		width : 50px;
+		height : 40px;
+		padding : 1px;
+		text-align : center;
+		margin : 0;
+		font-size : 16px;
+		
+	}
+	.num2{
+		width : 98px;
+		height : 40px;
+		padding : 1px;
+		text-align : center;
+		margin : 0;
+		font-size : 16px;
+	}
+		
+</style>
+
+
+</head>
+<body>
+
+	<table name = "cal" id = "cal" border = "1" width = "250" height = "320" align = "center">
+		<caption style = "font-size : 20px;">계산기</caption>
+		<tr>
+			<td colspan = "4" align = "center">
+				<input type = "text" id = "result" name = "result">
+				</td>
+		</tr>
+		<tr>
+			<td align = "center"><input class ="num1" type = "button" id = "n7" name = "n7" value = "7"
+			onClick = "input(7)"></td>
+			<td align = "center"><input class ="num1" type = "button" id = "n8" name = "n8" value = "8"
+			onClick = "input(8)"></td>
+			<td align = "center"><input class ="num1" type = "button" id = "n9" name = "n9" value = "9"
+			onClick = "input(9)"></td>
+			<td align = "center"><input class ="num1" type = "button" id = "div" name = "div" value = "/"
+			onClick = "input('/')"></td>
+		</tr>
+		<tr>
+			<td align = "center"><input class ="num1" type = "button" id = "n4" name = "n4" value = "4"
+			onClick = "input(4)"></td>
+			<td align = "center"><input class ="num1" type = "button" id = "n5" name = "n5" value = "5"
+			onClick = "input(5)"></td>
+			<td align = "center"><input class ="num1" type = "button" id = "n6" name = "n6" value = "6"
+			onClick = "input(6)"></td>
+			<td align = "center"><input class ="num1" type = "button" id = "multi" name = "multi" value = "*"
+			onClick = "input('*')"></td>
+		</tr>
+		<tr>
+			<td align = "center"><input class ="num1" type = "button" id = "n1" name = "n1" value = "1"
+			onClick = "input(1)"></td>
+			<td align = "center"><input class ="num1" type = "button" id = "n2" name = "n2" value = "2"
+			onClick = "input(2)"></td align = "center">
+			<td align = "center"><input class ="num1" type = "button" id = "n3" name = "n3" value = "3"
+			onClick = "input(3)"></td align = "center">
+			<td align = "center"><input class ="num1" type = "button" id = "minus" name = "minus" value = "-"
+			onClick = "input('-')"></td>
+		</tr>
+		<tr>
+			<td align = "center"><input class ="num1" type = "button" id = "n0" name = "n0" value = "0"
+			onClick = "input(0)"></td align = "center">
+			<td align = "center"><input class ="num1" type = "button" id = "dot" name = "dot" value = "."
+			onClick = "input('.')"></td>
+			<td align = "center"><input class ="num1" type = "button" id = "sqrt" name = "sqrt" value = "sprt"
+			onClick = "sqrt()"></td>
+			<td align = "center"><input class ="num1" type = "button" id = "plus" name = "plus" value = "+"
+			onClick = "input('+')"></td>
+		</tr>
+		<tr>
+			<td = colspan = "2" align = "center">
+				<input class ="num2" type = "button" id = "equal" name = "equal" value = "="
+				onClick = "calculate()">
+				</td>
+			<td = colspan = "2" align = "center">
+				<input class ="num2" type = "button" id = "clear" name = "clear" value = "Clear"
+				onClick = "c()">
+				</td>
+		</tr>
+	</table>
+
+<script>
+	
+	
+	
+	window.onload = function(){
+		document.getElementById("result").value.focus;
+	}
+	
+	function input(num){
+		document.getElementById("result").value += num;
+	}
+
+	function calculate(){
+		document.getElementById("result").value = eval(result.value);
+	}
+	
+	function c(){
+		document.getElementById("result").value = "";
+	}
+	function sqrt(){
+		document.getElementById("result").value = Math.sqrt(result.value);
+	}
+	
+	
+</script>
+
+</body>
+</html>

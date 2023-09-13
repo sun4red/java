@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script>
+	function check(){
+		alert("호출성공")
+		
+		var name = document.getElementById("name");
+		var email = document.getElementById("email");
+		
+//		if(myform.name.value == ""){	// 상위객체로 처리할 수도 있다 ID를 찾을 필요 없이
+		if(name.value == ""){
+			alert("이름 입력");
+			name.focus();
+			return false;		// check() 함수를 빠져나가게 만들어준다.
+		}
+		if(myform.email.value == ""){
+//		if(email.value == ""){
+			alert("이메일 입력");
+			email.focus();
+			return false;
+		}
+	}
+	
+</script>
+
+</head>
+<body>
+
+
+<form name = "myform" method = "post" action = "send.jsp" onsubmit = "return check()">
+	이름 : <input type = "text" id = "name" name = "name"><br>
+	이메일 : <input type = "text" id = "email" name = "email"><br>
+	<input type = "submit" value = "전송">
+	
+</form>
+
+</body>
+</html>

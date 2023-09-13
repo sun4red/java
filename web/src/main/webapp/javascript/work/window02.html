@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script>
+	function winopen(){
+		w1 = window.open("date01.html", "mywin01", "width=200, height = 200");
+	}	// 선언자가 빠지면 전역변수가 되기 때문에 아래의 함수에서도 사용이 가능하다.
+	function winclose(){
+		w1.close();
+	}
+</script>
+
+
+</head>
+<body>
+
+<input type = "button" value = "창열기" onClick = "winopen()">
+<input type = "button" value = "창닫기" onClick = "winclose()">
+
+
+
+
+</body>
+</html>
