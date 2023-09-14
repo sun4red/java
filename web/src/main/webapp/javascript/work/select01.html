@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+
+<script>
+	
+	function check(){
+		
+		var sel = document.getElementById("sel");
+		
+		if(sel.value == ""){
+			alert("선택해");
+		}
+		
+		document.bgColor = sel.value;
+		
+		
+	}
+	
+	
+	
+</script>
+
+
+</head>
+<body>
+
+<form>
+	<h3>좋아하는 컬러 선택</h3>
+	
+<!--<select multiple>-->	
+		
+		<select id = "sel" onchange="check()">
+		
+		<option value="">색깔 선택</option>
+		<option value="red">빨강</option>
+		<option value="blue">파랑</option>
+		<option value="yellow">노랑</option>
+		<option value="skyblue">하늘</option>
+		<option value="orange">오뤤지</option>
+		
+		
+	</select>
+	
+	<input type = "button" value = "확인" onClick="check()">	
+	
+	
+</form>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

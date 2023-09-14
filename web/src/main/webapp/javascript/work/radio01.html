@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script>
+	
+	function co(){
+		
+		var r = document.getElementById("r");
+		var b = document.getElementById("b");
+		var y = document.getElementById("y");
+		
+		if(r.checked){
+			document.bgColor = r.value;
+		}
+		if(y.checked){
+			document.bgColor = y.value;
+		}
+		if(document.getElementById("b").checked){
+			document.bgColor = "blue";
+		}
+	}
+	
+	
+</script>
+
+
+
+</head>
+
+<body>
+	
+<form>
+
+<input type = "radio" name = "color" id = "r" value = "red" onClick = "co()">빨강
+<input type = "radio" name = "color" id = "y" value = "yellow" onClick = "co()">노랑
+<input type = "radio" name = "color" id = "b" value = "blue" onClick = "co()">파랑
+
+
+</form>
+
+
+
+
+
+</body>
+</html>

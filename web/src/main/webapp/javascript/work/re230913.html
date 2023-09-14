@@ -13,7 +13,6 @@
 		text-align : center;
 		margin : 0;
 		font-size : 16px;
-		
 	}
 	.num2{
 		width : 98px;
@@ -22,6 +21,12 @@
 		text-align : center;
 		margin : 0;
 		font-size : 16px;
+	}
+	
+	.txtbox{
+		width : 246px;
+		height : 16px;
+		text-align : right;
 	}
 		
 </style>
@@ -34,7 +39,7 @@
 		<caption style = "font-size : 20px;">계산기</caption>
 		<tr>
 			<td colspan = "4" align = "center">
-				<input type = "text" id = "result" name = "result">
+				<input type = "text" id = "result" name = "result" class = "txtbox">
 				</td>
 		</tr>
 		<tr>
@@ -61,18 +66,18 @@
 			<td align = "center"><input class ="num1" type = "button" id = "n1" name = "n1" value = "1"
 			onClick = "input(1)"></td>
 			<td align = "center"><input class ="num1" type = "button" id = "n2" name = "n2" value = "2"
-			onClick = "input(2)"></td align = "center">
+			onClick = "input(2)"></td>
 			<td align = "center"><input class ="num1" type = "button" id = "n3" name = "n3" value = "3"
-			onClick = "input(3)"></td align = "center">
+			onClick = "input(3)"></td>
 			<td align = "center"><input class ="num1" type = "button" id = "minus" name = "minus" value = "-"
 			onClick = "input('-')"></td>
 		</tr>
 		<tr>
 			<td align = "center"><input class ="num1" type = "button" id = "n0" name = "n0" value = "0"
-			onClick = "input(0)"></td align = "center">
+			onClick = "input(0)"></td>
 			<td align = "center"><input class ="num1" type = "button" id = "dot" name = "dot" value = "."
 			onClick = "input('.')"></td>
-			<td align = "center"><input class ="num1" type = "button" id = "sqrt" name = "sqrt" value = "sprt"
+			<td align = "center"><input class ="num1" type = "button" id = "sqrt" name = "sqrt" value = "√"
 			onClick = "sqrt()"></td>
 			<td align = "center"><input class ="num1" type = "button" id = "plus" name = "plus" value = "+"
 			onClick = "input('+')"></td>

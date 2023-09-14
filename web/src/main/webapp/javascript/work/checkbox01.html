@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script>
+	
+	function fruits(){
+		
+		var f1 = document.getElementById("f1");
+		var f2 = document.getElementById("f2");
+		var f3 = document.getElementById("f3");
+		var f4 = document.getElementById("f4");
+		var f5 = document.getElementById("f5");
+		
+		var s = "";
+		
+		if(f1.checked) s += '사과'
+		if(f2.checked) s += '\n배'
+		if(f3.checked) s += '\n딸기'
+		if(f4.checked) s += '\n참외'
+		if(f5.checked) s += '\n수박'
+		
+		alert(s+"\n를 좋아하는군요");
+		
+	}
+	
+	
+</script>
+
+
+</head>
+<body>
+
+<form>
+	
+	좋아하는 과일을 선택하세요 <br>
+	<input type = "checkbox" name = "fruit" id = "f1">사과
+	<input type = "checkbox" name = "fruit" id = "f2">배
+	<input type = "checkbox" name = "fruit" id = "f3">딸기
+	<input type = "checkbox" name = "fruit" id = "f4">참외
+	<input type = "checkbox" name = "fruit" id = "f5">수박
+	
+	<input type = "button" value = "확인" onClick="fruits()">
+	
+</form>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script>
+	
+	function move(){
+		
+		var sel = document.getElementById("sel");
+		
+		// 페이지는 로케이션
+		
+		location.href = sel.value;
+		
+	}
+	
+	
+</script>
+
+</head>
+<body>
+
+<form>
+	방송국 : <select id = "sel" onchange="move()">
+		<option value = "">방송국 선택	</option>
+		<option value = "http://www.kbs.co.kr">KBS</option>
+		<option value = "http://www.imbc.com">MBC</option>
+		<option value = "http://www.sbs.co.kr">SBS</option>
+		
+	</select>
+	
+	
+</form>
+
+
+
+
+
+
+</body>
+</html>
