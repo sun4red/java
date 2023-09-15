@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script src = "http://code.jquery.com/jquery-latest.js"></script>
+
+<script>
+	$(document).ready(function(){
+		$('div').hide(); // div 태그를 불러와 보이지않게한다.
+		
+		
+		$('#b1').click(function(){
+		// id값이 b1인 버튼태그를 불러온다.	
+			$('div').show();
+		});
+		
+		$('#b2').click(function(){
+			$('div').hide();
+			alert("없었습니다.");
+		})
+		
+	});
+</script>
+
+</head>
+<body>
+
+<div id = "sample1">이 div가 보이시나요</div>
+div 태그 안에 들어있는 내용이<br>있었는데요<br><br>
+
+<button type = "button" id = "b1">출력</button>
+<button type = "button" id = "b2">숨기기</button>
+
+</body>
+</html>
