@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>클릭클릭붐뱁붑</title>
+
+<script src = "http://code.jquery.com/jquery-latest.js"></script>
+
+<script>
+	$(document).ready(function(){
+		$("#b1").click(function(){
+			
+			$("img").attr("src", "img/building.jpg")
+					.attr("title", "빌딩")
+					.attr("width",400)
+					.attr("height",300);
+			alert("그림변경완료")	
+		});
+		
+	});
+	
+	
+</script>
+
+
+
+</head>
+<body>
+
+<input type = "button" value = "화면을 변경" id = "b1">
+
+<p><img src = "img/flower.jpg"></p>
+
+
+
+
+
+</body>
+</html>

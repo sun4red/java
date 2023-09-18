@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>더블클릭 이벤트</title>
+
+<script src = "http://code.jquery.com/jquery-latest.js"></script>
+
+<script>
+	$(function(){
+		$("button").dblclick(function(){
+			$("img").attr("src", "img/sea.jpg")
+					.attr("title", "바다");	
+		});
+	});
+</script>
+
+</head>
+<body>
+	<button>화면을 변경</button>
+	<p><img src = "img/flower.jpg"></p>
+
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script src = "http://code.jquery.com/jquery-latest.js"></script>
+
+<script>
+	
+	$(document).ready(function(){
+		
+		var array = [
+					{name: '네이버', link: 'http://www.naver.com'},
+					{name: '다음', link: 'http://www.daum.net'},
+					{name: '네이트', link: 'http://www.nate.com'},
+					{name: '구글', link: 'http://www.google.com'}
+					]
+		
+		var output = '';
+		
+		$.each(array, function(index, item){
+			
+			output += '<a href = "' + item.link + '">';
+			output += '<h1>' + item.name + '</h1>';
+			output += '</a>';
+			
+		});
+		
+		$('div').html(output);
+		
+	});
+	
+</script>
+
+
+</head>
+<body>
+
+
+
+<div></div>
+
+
+
+</body>
+</html>

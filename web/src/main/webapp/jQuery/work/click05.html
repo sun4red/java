@@ -1,0 +1,37 @@
+</html><!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>클릭클릭</title>
+
+<script src = "http://code.jquery.com/jquery-latest.js"></script>
+
+<script>
+	
+	$(document).ready(function(){
+		$("a").click(function(){
+			$("img").attr("src", $(this).attr("href"))
+					.attr("title", $(this).text());
+					// this는 이벤트를 발생시킨 태그를 의미.
+			return false;
+			
+		});
+		
+	});
+	
+</script>
+
+</head>
+<body>
+
+<ul>
+	<li><a href = "img/Jellyfish.jpg">해파리</a></li>
+	<li><a href = "img/flower.jpg">꽃</a></li>
+	<li><a href = "img/sea.jpg">바다</a></li>
+	<li><a href = "img/building.jpg">건물</a></li>
+</ul>
+
+<p><img src = "img/Jellyfish.jpg" title = "해파리"></p>
+
+
+</body>

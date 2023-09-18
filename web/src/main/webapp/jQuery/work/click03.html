@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>클릭하면 잠이온다</title>
+
+<script src = "http://code.jquery.com/jquery-latest.js"></script>
+
+<script>
+	
+	$(document).ready(function(){
+		$("a").click(function(){
+			$("img").attr("src", "img/building.jpg")
+					.attr("title", "빌드잉")
+					.attr("width", 800)
+					.attr("height", 750);			
+
+			return false;	// 하이퍼링크 내용을 실행시키지 않는다.
+		});
+		
+	});
+ 	
+</script>
+
+</head>
+<body>
+
+	<a href = "img/building.jpg">화면을 변경</a>
+	<p><img src = "img/flower.jpg" title = "꽃"></p>
+
+
+
+</body>
+</html>

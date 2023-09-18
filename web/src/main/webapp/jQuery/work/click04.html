@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>클릭하면 꽃이 나와</title>
+
+<script src = "http://code.jquery.com/jquery-latest.js"></script>
+
+<script>
+	$(document).ready(function(){
+		
+		$("a:eq(0)").click(function(){
+			$("img").attr("src", "img/Jellyfish.jpg")
+					.attr("title", "해파리");
+			return false;			
+		});
+		$("a:eq(1)").click(function(){
+			$("img").attr("src", "img/flower.jpg")
+					.attr("title", "꽃");
+			return false;			
+		});
+		$("a:eq(2)").click(function(){
+			$("img").attr("src", "img/sea.jpg")
+					.attr("title", "바다");
+			return false;			
+		});
+		$("a:eq(3)").click(function(){
+			$("img").attr("src", "img/building.jpg")
+					.attr("title", "건물");
+			return false;			
+		});
+		
+	});
+	
+	
+</script>
+
+</head>
+<body>
+
+<ul>
+	<li><a href = "img/Jellyfish.jpg">해파리</a></li>
+	<li><a href = "img/flower.jpg">꽃</a></li>
+	<li><a href = "img/sea.jpg">바다</a></li>
+	<li><a href = "img/building.jpg">건물</a></li>
+</ul>
+
+<p><img src = "img/Jellyfish.jpg" title = "해파리"></p>
+
+
+</body>
