@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>키업</title>
+
+<script src = "http://code.jquery.com/jquery-latest.js"></script>
+
+
+<script>
+	
+	$(document).ready(function(){
+		// 주민번호 포커스 뒷자리로 이동
+		$("#jumin1").keyup(function(){
+			if($("#jumin1").val().length == 6){
+				$("#jumin2").focus();
+			}
+			
+		});
+		
+	});
+	
+	
+</script>
+
+
+
+</head>
+<body>
+
+
+
+주민번호 :
+<input type = "text" size = "6" maxlength= "6" id = "jumin1"> -
+<input type = "text" size = "7" maxlength= "7" id = "jumin2">
+
+
+
+</body>
+</html>

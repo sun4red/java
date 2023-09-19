@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<script src = "http://code.jquery.com/jquery-latest.js"></script>
+
+<script>
+	$(document).ready(function(){
+		
+		$("form").submit(function(){
+			
+			var pattern = /^[a-z]+[a-z0-9_]+$/;
+			var num = /^[0-9]+$/;
+			
+			var id = $.trim($("#id").val());
+			if(id == ""){
+				alert("아이디를 입력");
+				$("#id").focus();
+				return false;
+			}else if(!pattern.test(id)){		// 정규 표현식 검사
+				alert("ID는 영문소문자로 시작하고\r\n"+
+				"영문 소문자, 숫자, 언더바(_)만 사용할 수 있음")
+				$("#id").val("").focus();
+				return false;
+			}
+			
+			var passwd = $.trim($('#passwd').val());
+			if(passwd == ""){
+				alert("비번 입력");
+				$("#passwd").focus();
+				return false;
+			}else if(!num.test(passwd)){
+				alert("비밀번호는 숫자만 입력 가능");
+				$("#passwd").val("").focus();
+				return false;
+			}
+			
+		});
+		
+		
+	});
+</script>
+
+
+
+</head>
+<body>
+
+<form method = "post" action = "send.jsp">
+	ID : <input type = "text" id = "id"><br>
+	비밀번호 : <input type = "text" id = "passwd"><br><br>
+	<input type = "submit" value = "전송">
+</form>
+
+
+
+
+
+</body>
+</html>

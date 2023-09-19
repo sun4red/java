@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+
+
+<script>
+	$(document).ready(function(){
+		
+		$("input").attr("readOnly", true);
+		
+		$("select").change(function(){
+			if(	$("select").val() == "10" ||
+				$("select").val() == "")
+			{
+				$("input").attr("readOnly", true);
+				$("input").val("");
+			}
+			else
+			{
+				$("input").attr("readOnly", false);
+				$("input").val("").focus();
+			}
+		});
+	});
+	
+</script>
+</head>
+<body>
+
+나이 : <select>
+	<option value = "">나이 선택</option>
+	<option value = "10">10대</option>
+	<option value = "20">20대</option>
+	<option value = "30">30대</option>
+	<option value = "40">40대</option>
+</select>
+<br>
+좋아하는 술 : 
+<input type = "text">
+
+
+</body>
+</html>

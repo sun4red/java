@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src = "http://code.jquery.com/jquery-latest.js"></script>
+
+<script>
+	$(document).ready(function(){
+		
+		$("#email").change(function(){
+			
+			if($("#email").val() == ""){		// '직접입력' 선택
+				$("#domain").val("").focus();
+				$("#domain").removeAttr("readonly");
+			
+			
+			}else{								// '도메인명' 선택
+				$("#domain").val($("#email").val());
+				$("#domain").attr("readOnly", true);
+							
+				
+				
+			}
+			
+		});		
+		
+	});
+</script>
+
+</head>
+<body>
+
+E-mail :
+<input type = "text" size = "10" id = "mailid"> @
+<input type = "text" size = "15" id = "domain">
+<select id = "email">
+	<option value = "">직접입력</option>
+	<option value = "naver.com">네이버</option>
+	<option value = "daum.net">다음</option>
+	<option value = "nate.com">네이트</option>
+	<option value = "gmail.com">구글</option>
+</select>
+
+</body>
+</html>
