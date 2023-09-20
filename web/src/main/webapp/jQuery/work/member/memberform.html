@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>회원가입 폼</title>
+	<script src="http://code.jQuery.com/jQuery-latest.js"></script>
+	<script src="http://dmaps.daum.net/map_js_init/postcode.v2.js"></script>
+	<script>
+		function openDaumPostcode() {
+			new daum.Postcode({
+				oncomplete: function (data) {
+					document.getElementById('post').value = data.zonecode;
+					document.getElementById('address').value = data.address;
+				}
+			}).open();
+		}
+	</script>
+
+	<script src="member.js"></script>
+
+
+	<style>
+		.con {
+			background-color: rgb(241, 241, 239);
+		}
+
+		.left1 {
+			width: 90;
+			height: 30;
+			font-size: 20;
+			background-color: rgb(117, 183, 255);
+			color: white;
+
+		}
+
+		.txtbox1 {
+			width: 100px;
+			height: 14px;
+			vertical-align: middle;
+		}
+
+		.txtbox2 {
+			width: 80px;
+			height: 14px;
+			vertical-align: middle;
+		}
+		.txtbox3 {
+
+		}
+	</style>
+
+</head>
+
+<body>
+
+	<form method="post" action="member.jsp">
+
+		<table border="1" width="650" align="center">
+
+			<caption>회원가입 폼</caption>
+
+			<tr>
+				<th class="left1">ID</th>
+				<td class="con">
+					<input class="txtbox1" type="text" name="id" id="id" autofocus>
+					<input type="button" value="ID중복검사" id="idcheck">
+				</td>
+			</tr>
+
+			<tr>
+				<th class="left1">비밀번호</th>
+				<td class="con">
+					<input type="password" class="txtbox1" name="passwd" id="passwd">
+				</td>
+			</tr>
+
+			<tr>
+				<th class="left1">성명</th>
+				<td class="con"><input type="text" class="txtbox1" name="name" id="name"></td>
+			</tr>
+
+			<tr>
+				<th class="left1">주민번호</th>
+				<td class="con">
+					<input type="text" class="txtbox2" size="6" maxlength="6" name="jumin1" id="jumin1">
+					-
+					<input type="text" class="txtbox2" size="7" maxlength="7" name="jumin2" id="jumin2">
+				</td>
+			</tr>
+
+			<tr>
+				<th class="left1">E-mail</th>
+				<td class="con">
+					<input type="text" class="txtbox2" size="10" name="mailid" id="mailid">
+					@
+					<input type="text" class="txtbox2" size="15" name="domain" id="domain">
+
+					<select id="email">
+						<option value="">직접입력</option>
+						<option value="naver.com">네이버</option>
+						<option value="daum.net">다음</option>
+						<option value="nate.com">네이트</option>
+						<option value="google.com">구글</option>
+					</select>
+				</td>
+			</tr>
+
+			<tr>
+				<th class="left1">전화번호</th>
+				<td class="con">
+					<input type="text" class = "txtbox3" size="4" maxlength="4" name="tel1" id="tel1">
+					-
+					<input type="text" class = "txtbox3" size="4" maxlength="4" name="tel2" id="tel2">
+					-
+					<input type="text" class = "txtbox3" size="4" maxlength="4" name="tel3" id="tel3">
+				</td>
+			</tr>
+
+			<tr>
+				<th class="left1">핸드폰</th>
+				<td class="con">
+					<select class = "txtbox3" name="phone1" id="phone1">
+						<!--selected 또는 가장 위에 작성된 것이 초기값-->
+						<option value="">번호선택</option>
+						<option value="010">010</option>
+						<option value="011">011</option>
+						<option value="016">016</option>
+						<option value="018">018</option>
+						<option value="019">019</option>
+					</select>
+					-
+					<input type="text" class = "txtbox3" size="4" maxlength="4" name="phone2" id="phone2">
+					-
+					<input type="text" class = "txtbox3" size="4" maxlength="4" name="phone3" id="phone3">
+				</td>
+			</tr>
+
+			<tr>
+				<th class="left1">우편번호</th>
+				<td class="con">
+					<input type="text" size="5" maxlength="5" name="post" id="post">
+					<input type="button" value="우편검색" onClick="openDaumPostcode()">
+				</td>
+			</tr>
+
+			<tr>
+				<th class="left1">주소</th>
+				<td class="con">
+					<input type="text" size="70" maxlength="70" name="address" id="address">
+				</td>
+			</tr>
+
+			<tr>
+				<th class="left1">성별</th>
+				<td class="con">
+					<input type="radio" name="gender" value="남자" id="male">남자
+					<input type="radio" name="gender" value="여자" id="female">여자
+					<!--둘다 checkerd 표시하면 나중의 것이 체크된다.-->
+				</td>
+			</tr>
+
+			<tr>
+				<th class="left1">취미</th>
+				<td class="con">
+					<!--라디오버튼과 다르게 다중선택이 가능하다.-->
+					<input type="checkbox" name="hobby" value="공부" id="h1">공부
+					<input type="checkbox" name="hobby" value="운동" id="h2">운동
+					<input type="checkbox" name="hobby" value="낚시" id="h3">낚시
+					<input type="checkbox" name="hobby" value="게임" id="h4">게임
+					<input type="checkbox" name="hobby" value="등산" id="h5">등산
+					<input type="checkbox" name="hobby" value="쇼핑" id="h6">쇼핑
+					<input type="checkbox" name="hobby" value="그림" id="h7">그림
+					<input type="checkbox" name="hobby" value="음악" id="h8">음악
+				</td>
+			</tr>
+
+			<tr>
+				<th class="left1">자기소개</th>
+				<td class="con">
+					<textarea rows="7" cols="70" name="intro" id="intro" placeholder="자기소개를 100자 이내로 입력하세요."></textarea>
+				</td>
+			</tr>
+
+			<tr>
+				<td class="con" colspan="2" align="center">
+					<input type="submit" value="회원가입">
+					<input type="reset" values="취소">
+				</td>
+			</tr>
+
+			</tr>
+
+
+		</table>
+
+	</form>
+
+
+</body>
+
+</html>
