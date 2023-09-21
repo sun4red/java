@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+
+	<style>
+		table {
+			width : 800px;
+			height : 400px;
+			border: 2px solid rgb(180, 182, 254);
+			background-color: rgb(255, 255, 255);
+			color : rgb(0, 64, 128);
+		}
+	</style>
+
+
+	<script src="http://code.jquery.com/jquery-latest.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$.get("item.xml", function (data) {
+				$("#treeData").append(
+					"<tr><td>id</td><td>name</td>"
+					+ "<td>price</td><td>description</td></tr>"
+				);
+
+				$(data).find("item").each(function () {
+					var item = $(this);
+					$("#treeData").append(
+						"<tr><td>" + item.attr("id") + "</td>"
+						+ "<td>" + item.attr("name") + "</td>"
+						+ "<td>" + item.find("price").text() + "</td>"
+						+ "<td>" + item.find("description").text() + "</td></tr>"
+					);
+
+				});
+
+			});
+
+		});
+	</script>
+
+
+</head>
+
+<body>
+	<table id="treeData"></table>
+</body>
+
+</html>
