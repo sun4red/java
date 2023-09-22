@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>1번문제 230922</title>
+	<script src="http://code.jquery.com/jquery-latest.js"></script>
+	<script>
+		$(document).ready(function () {
+
+			$("form").submit(function () {
+				if ($("select").val() == "") {
+					alert("구구단을 선택하세요");
+					$("select").focus();
+					return false;
+				}
+			})
+		});
+	</script>
+</head>
+<body>
+	<form id="gugu" action="gugu.jsp">
+		<h1>보고싶은 구구단은?</h1>
+		<br>
+		<select id="dan" name="dan">
+			<option value="">단을 선택하세요</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="6">6</option>
+			<option value="7">7</option>
+			<option value="8">8</option>
+			<option value="9">9</option>
+		</select>
+		<br><br>
+		<input type="submit" value="확인">
+	</form>
+</body>
+</html>

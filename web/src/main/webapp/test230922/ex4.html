@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>게시판 폼</title>
+	<script src="http://code.jQuery.com/jQuery-latest.js"></script>
+	<script>
+		$(document).ready(function () {
+
+			$("form").submit(function () {
+
+				if ($("#title").val() == "") {
+					alert("제목을 입력하세요");
+					$("#title").focus();
+					return false;
+				}
+				if ($("#name").val() == "") {
+					alert("작성자를 입력하세요");
+					$("#name").focus();
+					return false;
+				}
+				if ($("#mypasswd").val() == "") {
+					alert("비밀번호를 입력하세요");
+					$("#mypasswd").focus();
+					return false;
+				}
+				if ($("#mycontent").val() == "") {
+					alert("내용을 입력하세요");
+					$("#mycontent").focus();
+					return false;
+				}
+
+			});
+
+		});
+	</script>
+</head>
+
+<body>
+
+	<form method="post" action="board.jsp">
+		<table border="1" align="center">
+			<caption>게시판</caption>
+			<tr>
+				<th>제목</th>
+				<td><input type="text" id="title"></td>
+			</tr>
+			<tr>
+				<th>작성자</th>
+				<td><input type="text" id="name"></td>
+			</tr>
+			<tr>
+				<th>비밀번호</th>
+				<td><input type="text" id="mypasswd"></td>
+			</tr>
+			<tr>
+				<th>내용</th>
+				<td><input type="text" id="mycontent"></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center">
+					<input type="submit" value="확인">
+				</td>
+			</tr>
+
+		</table>
+
+	</form>
+
+</body>
+
+</html>
