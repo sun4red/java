@@ -8,7 +8,7 @@
 
             if (cookies[i].getName().equals("name")) {
                 Cookie cookie = new Cookie("name", "");
-                cookie.setMaxAge(0);
+                cookie.setMaxAge(0);	// 시간을 0으로 해버리면 바로 지워짐
                 response.addCookie(cookie);
             }//if end
 
