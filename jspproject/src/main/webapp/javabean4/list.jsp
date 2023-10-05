@@ -32,6 +32,7 @@ List<LogonDataBean> li = manager.selectMember();
 
 
 	for(int i = 0; i < li.size(); i++) {
+		// Object  get(int index)
 		LogonDataBean db = (LogonDataBean)li.get(i);
 %>
 

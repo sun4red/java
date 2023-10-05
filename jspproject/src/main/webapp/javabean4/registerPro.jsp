@@ -7,7 +7,8 @@
   request.setCharacterEncoding("utf-8");
 
   LogonDataBean	regBean1 = new LogonDataBean();
-//regBean1.id="test";
+//  regBean1.id="test";
+//   regBean1.setId("test");
 %>
 
 <jsp:useBean id="regBean" class="register.LogonDataBean" />
