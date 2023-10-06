@@ -18,3 +18,5 @@ gender varchar2(20),
 hobby varchar2(50),
 intro varchar2(2000),
 register timestamp );
+
+select * from member;
