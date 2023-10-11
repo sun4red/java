@@ -21,6 +21,8 @@
 
 	String pageNum = request.getParameter("page");
 	if (pageNum == null) {
+		// null값이 되는 경우 : list.jsp를 그냥 실행하여 불러볼 값이 없던 것,
+		// writePro.jsp에서 넘어올 때 어떤 페이지를 불러올지 모르는 경우
 		pageNum = "1"; //1page : 최근 글이 보이는 페이지
 	}
 
@@ -81,7 +83,10 @@
 		%>
 		<tr>
 			<td><%=number--%></td>
-			<td><%=board.getSubject()%></td>
+			<td>	<!-- 두개 이상의 값을 가져갈때는 '&' 사용 -->
+			<a href="content.jsp?num=<%=board.getNum()%>&page=<%=currentPage%>">
+			<%=board.getSubject()%>
+			</a></td>
 			<td><%=board.getWriter()%></td>
 			<td><%=sd.format(board.getReg_date())%></td>
 			<td><%=board.getReadcount()%></td>
@@ -158,7 +163,7 @@
 		if (endPage < pageCount) {
 		%>
 
-		<a href="list.jsp?page=<%=startPage+10%>"
+		<a href="list.jsp?page=<%=startPage + 10%>"
 			style="text-decoration: none">[다음]</a>
 
 		<%
