@@ -132,14 +132,14 @@ public class BoardDBBean {
 
 			con = getConnect();
 			
-			if(sel != null && find != null) {
+			if(sel != null && find != null) {	// 검색 데이터 목록
 				sql = "select * from (select rownum rnum, board.* from "
 						+ "(select * from board "
 						+ "order by num desc) board "
 						+ "where " + sel + " like '%" + find + "%') "
 						+ "where rnum >= ? and rnum <= ?";
 				
-			}else {
+			}else {		// 전체 데이터 목록
 				sql = "select * from (select rownum rnum, board.* from "
 						+ "(select * from board order by num desc) board)" + "where rnum >= ? and rnum <= ?";
 				

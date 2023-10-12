@@ -15,3 +15,5 @@ create table reboard( num number  primary key,
  start with 1
  increment by 1
  nocache;
+
+ select * from reboard;

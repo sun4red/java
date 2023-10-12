@@ -22,6 +22,7 @@
 	String find = request.getParameter("find");
 	
 	
+	
 	// 1. 한 페이지에 출력할 데이터 갯수
 	int page_size = 10;
 
@@ -111,12 +112,12 @@
 	<%
 	}
 	%>
-
+<center>
 	<!-- 페이지 링크 -->
 
-	<center>
+
 		<%
-		if (count > 0) {
+	if (count > 0) {
 
 			// pageCount : 총 페이지 수
 			int pageCount = count / page_size + ((count % page_size == 0) ? 0 : 1);
@@ -130,14 +131,70 @@
 
 			// 가장 마지막 블럭에 endPage값을 PageCounts로 수정
 
-			if (endPage > pageCount) {
+				if (endPage > pageCount) {
 				endPage = pageCount;
+				}
+			
+			if(sel == null && find == null){
+		%>
+
+
+
+		<!-- 1page로 이동 -->
+		
+		<a href="list.jsp?page=1" style="text-decoration: none"> < </a>
+
+		<%
+		// 이전 블록으로 이동
+
+			if (startPage > 10) {
+		%>
+		<a href="list.jsp?page=<%=startPage - 10%>">[이전]</a>
+		<%
 			}
 		%>
 
-		<!-- 1page로 이동 -->
-		<a href="list.jsp?page=1&sel=<%=sel%>&find=<%=find%>" style="text-decoration: none"> << </a>
+		<%
+		// 각 블럭당 10개의 페이지 출력
+			for (int i = startPage; i <= endPage; i++) {
+				if (i == currentPage) { // 현재 페이지
+		%>
+		[<%=i%>]
 
+		<%
+				} else {
+		%>
+		<a href="list.jsp?page=<%=i%>">[<%=i%>]
+		</a>
+		<%
+				}
+			}
+
+		// 다음 블록으로 이동
+			if (endPage < pageCount) {
+		%>
+
+		<a href="list.jsp?page=<%=startPage + 10%>"
+			style="text-decoration: none">[다음]</a>
+
+		<%
+			}
+		
+		%>
+
+		<!-- 마지막 페이지로 이동 -->
+		<a href="list.jsp?page=<%=pageCount%>" style="text-decoration: none">
+			>> </a>
+		<%
+		
+		// 검색목록 페이지 링크
+		
+		} else if(sel != null && find != null){
+		%>
+		
+				<!-- 1page로 이동 -->
+		
+		<a href="list.jsp?page=1&sel=<%=sel%>&find=<%=find%>" style="text-decoration: none"> < </a>
 
 		<%
 		// 이전 블록으로 이동
@@ -180,10 +237,15 @@
 		<a href="list.jsp?page=<%=pageCount%>&sel=<%=sel%>&find=<%=find%>" style="text-decoration: none">
 			>> </a>
 		<%
+		
+		
+		
 		}
-		%>
+		}
+		
+		 %>
+</center>
 
-	</center>
 	
 	<br><br><br>
 	

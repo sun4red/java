@@ -4,6 +4,7 @@ import java.sql.Timestamp;
 
 public class BoardDataBean {
 
+	private int num;
 	private String writer;
 	private String email;
 	private String subject;
@@ -15,6 +16,14 @@ public class BoardDataBean {
 	private int re_level;
 	private String content;
 	private String ip;
+
+	public int getNum() {
+		return num;
+	}
+
+	public void setNum(int num) {
+		this.num = num;
+	}
 
 	public String getWriter() {
 		return writer;
