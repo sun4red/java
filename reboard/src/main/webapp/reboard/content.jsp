@@ -66,9 +66,11 @@ SimpleDateFormat sd = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 <input type = "button" value = "댓글"
 onClick = "location.href = 'replyForm.jsp?num=<%=num%>&page=<%=nowpage%>&ref=<%=ref%>&re_level=<%=re_level%>&re_step=<%=re_step%>'">
 
-<input type = "button" value = "수정">
+<input type = "button" value = "수정"
+onClick = "location.href='updateForm.jsp?num=<%=num%>&page=<%=nowpage%>'">
 
-<input type = "button" value = "삭제">
+<input type = "button" value = "삭제"
+onClick = "location.href='deleteForm.jsp?num=<%=num%>&page=<%=nowpage%>'">
 
 <input type = "button" value = "목록"
 onClick = "location.href = 'list.jsp?page=<%=nowpage%>'"></td>

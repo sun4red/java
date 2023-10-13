@@ -8,5 +8,11 @@
 </head>
 <body>
 댓글 게시판
+
+
+<script>
+location.href="reboard/list.jsp";
+</script>
+
 </body>
 </html>
