@@ -15,6 +15,7 @@
 
 	<!-- split() : 문자열을 공백으로 분리하여 배열 형태로 반환 -->
     <c:set var="texts" value = "${fn:split('Hello Java Server Pages!',' ') }"/>
+    배열 출력 : ${texts }<br><br>
     
     <!-- length() : 문자열의 길이 반환 -->
     <!-- length(texts) : 배열의 크기(4) 구함 -->

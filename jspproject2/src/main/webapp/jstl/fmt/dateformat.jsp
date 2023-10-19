@@ -8,6 +8,9 @@
 <body>
 
 <c:set var="now" value="<%= new Date() %>" />
+현재 날짜 : ${ now} <br>
+
+
 <fmt:formatDate value="${now}" type="date" dateStyle="full" /><br>
 <fmt:formatDate value="${now}" type="date" dateStyle="short" /><br>
 <fmt:formatDate value="${now}" type="time" /><br>
