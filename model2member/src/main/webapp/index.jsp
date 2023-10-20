@@ -8,5 +8,13 @@
 </head>
 <body>
 Model2Member
+
+<script>
+
+location.href = "./LoginForm.do";
+
+
+</script>
+
 </body>
 </html>

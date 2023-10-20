@@ -11,6 +11,8 @@ import javax.servlet.http.HttpServletResponse;
 
 import service.Action;
 import service.ActionForward;
+import service.IdCheck;
+import service.Login;
 import service.MemberInsert;
 
 /**
@@ -51,11 +53,58 @@ public class MemberController extends HttpServlet {
 			try {
 				action = new MemberInsert();		// 업캐스팅?
 				forward = action.execute(request, response);
+				// execute 메소드가 throws를 사용, 예외처리 필순
 			}catch(Exception e) {
 				e.printStackTrace();
 			}
-		}
+			// ID 중복검사
+		}else if(command.equals("/IdCheck.do")){	// 커맨드 변수에 저장되는 값 그대로 작성
+			try {
+				action = new IdCheck();
+				forward = action.execute(request, response);
+			}catch(Exception e) {
+				e.printStackTrace();
+			}
+			// 회원가입 폼
+		}else if(command.equals("/MemberForm.do")) {
 
+		forward = new ActionForward();
+		forward.setRedirect(false);
+		forward.setPath("./member/memberform.jsp");
+		
+		
+		// 로그인 폼
+		}else if (command.equals("/LoginForm.do")) {
+			
+		forward = new ActionForward();
+		forward.setRedirect(false);
+		forward.setPath("./member/loginform.jsp");
+		
+		
+		
+		
+		// 로그인 (회원 인증)
+		}else if(command.equals("/Login.do")){
+		
+		try {
+			action = new Login();
+			forward = action.execute(request, response);
+			// 메소드 오버라이딩이 되면 오버라이딩된 것만 불러진다.
+			// 부모의 메소드는 은닉
+			
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
+		
+		// 로그아웃
+		}else if (command.equals("/Logout.do")) {
+		
+		forward = new ActionForward();
+		forward.setRedirect(false);
+		forward.setPath("./member/logout.jsp");
+		
+		}
+		
 		// 포워딩 처리
 		
 		if(forward != null) {
