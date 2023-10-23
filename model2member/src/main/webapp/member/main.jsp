@@ -8,9 +8,9 @@
 <c:if test = "${!empty sessionScope.id}">
 ${sessionScope.id }님 환영합니다.<br><br>
 
-회원정보 수정<br>
+<a href = "<%=request.getContextPath() %>/UpdateMember.do">회원정보 수정</a><br>
 <a href = "<%=request.getContextPath() %>/Logout.do">로그아웃</a><br>
-회원탈퇴<br>
+<a href = "<%=request.getContextPath() %>/DeleteMember.do">회원탈퇴</a><br>
 
 </c:if>
 

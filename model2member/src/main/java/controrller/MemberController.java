@@ -11,9 +11,12 @@ import javax.servlet.http.HttpServletResponse;
 
 import service.Action;
 import service.ActionForward;
+import service.Delete;
 import service.IdCheck;
 import service.Login;
 import service.MemberInsert;
+import service.Update;
+import service.UpdateMember;
 
 /**
  * Servlet implementation class MemberController
@@ -103,6 +106,50 @@ public class MemberController extends HttpServlet {
 		forward.setRedirect(false);
 		forward.setPath("./member/logout.jsp");
 		
+		
+		
+		
+		// 회원정보 수정 폼
+		}else if(command.equals("/UpdateMember.do")) {
+			try {
+				action = new UpdateMember();
+				forward = action.execute(request, response);
+						
+				
+				
+			}catch(Exception e) {
+				e.printStackTrace();
+			}
+			
+		// 회원정보 수정
+		}else if(command.equals("/Update.do")) {
+			
+			try {
+				action = new Update();
+				forward = action.execute(request, response);
+				
+			}catch(Exception e) {
+				e.printStackTrace();
+			}
+			
+			
+		// 회원 탈퇴
+		}else if (command.equals("/DeleteMember.do")) {
+			
+			forward = new ActionForward();
+			forward.setRedirect(false);
+			forward.setPath("./member/deleteform.jsp");
+			
+		// 회원 탈퇴
+		}else if (command.equals("/Delete.do")) {
+			try {
+				action = new Delete();
+				forward = action.execute(request, response);
+				
+			}catch(Exception e) {
+				e.printStackTrace();
+			}
+			
 		}
 		
 		// 포워딩 처리
