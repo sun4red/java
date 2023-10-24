@@ -17,3 +17,7 @@ nocache;
 
 select * from MODEL2BOARD;
 select * from seq;
+
+insert into model2board values(
+model2board_seq.nextval,'테스트이름', 1, '테스트제목', '테스트내용', null,  
+model2board_seq.nextval, 0, 0, 0, sysdate); 
