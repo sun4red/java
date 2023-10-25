@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
@@ -24,7 +19,6 @@
     <fullyQualifiedTypeName name="reboard.BoardDataBean"/>
     <fullyQualifiedTypeName name="upload.BoardDBBean"/>
     <fullyQualifiedTypeName name="upload.BoardDataBean"/>
-    <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="send.QueryDTO"/>
     <fullyQualifiedTypeName name="send.QueryDAO"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
@@ -36,7 +30,6 @@
     <fullyQualifiedTypeName name="service.Update"/>
     <fullyQualifiedTypeName name="service.Delete"/>
     <fullyQualifiedTypeName name="dao.MemberDAO"/>
-    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
     <fullyQualifiedTypeName name="model.MemberDTO"/>
     <fullyQualifiedTypeName name="java.sql.Timestamp"/>
@@ -47,17 +40,24 @@
     <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="com.oreilly.servlet.MultipartRequest"/>
     <fullyQualifiedTypeName name="com.oreilly.servlet.multipart.DefaultFileRenamePolicy"/>
-    <fullyQualifiedTypeName name="java.sql.Connection"/>
-    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="service.BoardListAction"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="service.Action"/>
-    <fullyQualifiedTypeName name="service.ActionForward"/>
     <fullyQualifiedTypeName name="service.BoardAddAction"/>
     <fullyQualifiedTypeName name="service.BoardDetailAction"/>
+    <fullyQualifiedTypeName name="service.BoardReplyForm"/>
+    <fullyQualifiedTypeName name="service.BoardReply"/>
+    <fullyQualifiedTypeName name="service.BoardModifyForm"/>
+    <fullyQualifiedTypeName name="service.BoardModify"/>
+    <fullyQualifiedTypeName name="service.Action"/>
     <fullyQualifiedTypeName name="dao.BoardDAO"/>
+    <fullyQualifiedTypeName name="service.BoardDelete"/>
+    <fullyQualifiedTypeName name="service.ActionForward"/>
     <fullyQualifiedTypeName name="model.BoardBean"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
 </qualifiedTypeNameHistroy>

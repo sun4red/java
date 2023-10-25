@@ -241,5 +241,113 @@ public class BoardDAO {
 		
 		return board;
 	}
+// 댓글 작성
+	public int boardReply(BoardBean board) {
+		int result = 0;
+		
+		Connection con = null;
+		PreparedStatement pstmt = null;
+		
+		// 부모글에 대한 정보
+		int re_ref = board.getBoard_re_ref();	// 글 그룹 번호
+		int re_lev = board.getBoard_re_lev();	// 댓글 깊이
+		int re_seq = board.getBoard_re_seq();	// 댓글의 출력 순서
+		
+		try {
+			
+			con = getConnection();
+			String sql = "update model2board set board_re_seq = board_re_seq+1 "
+					+ "where board_re_ref = ? and board_re_seq > ?";
+			pstmt = con.prepareStatement(sql);
+			pstmt.setInt(1, re_ref);
+			pstmt.setInt(2, re_seq);
+			
+			pstmt.executeUpdate();
+			
+			sql = "insert into model2board values(model2board_seq.nextval, "
+					+ "?, ?, ?, ?, ?, ?, ?, ?, ?, sysdate)";
+			
+			pstmt = con.prepareStatement(sql);
+			
+			pstmt.setString(1, board.getBoard_name());
+			pstmt.setString(2, board.getBoard_pass());
+			pstmt.setString(3, board.getBoard_subject());
+			pstmt.setString(4, board.getBoard_content());
+			pstmt.setString(5, "");
+			pstmt.setInt(6, re_ref);
+			pstmt.setInt(7, re_lev+1);
+			pstmt.setInt(8, re_seq+1);
+			pstmt.setInt(9, 0);
+			result = pstmt.executeUpdate();
+			
+		}catch(Exception e) {
+			e.printStackTrace();
+		}finally {
+			try {
+				if(con!=null)con.close();
+				if(pstmt!=null)pstmt.close();
+			}catch(Exception e) {
+				e.printStackTrace();
+			}
+		}
+		
+		
+		return result;
+	}
+	// 글 수정
+	public int update(BoardBean board) {
+		int result = 0;
+
+		Connection con = null;
+		PreparedStatement pstmt = null;
+		
+		try {
+			
+			con = getConnection();
+			String sql = "update model2board set board_name = ?, board_subject = ?, "
+					+ "board_content = ? where board_num = ?";
+			pstmt = con.prepareStatement(sql);
+			pstmt.setString(1, board.getBoard_name());
+			pstmt.setString(2, board.getBoard_subject());
+			pstmt.setString(3, board.getBoard_content());
+			pstmt.setInt(4, board.getBoard_num());
+			
+			result = pstmt.executeUpdate();
+			
+		}catch(Exception e) {
+			e.printStackTrace();
+		}finally {
+			try {
+				if(con!=null)con.close();
+				if(pstmt!=null)pstmt.close();
+			}catch(Exception e) {
+				e.printStackTrace();
+			}
+		}
+		
+		return result;
+	}
+
+	public int delete(int board_num) {
+		int result = 0;
+		
+		Connection con = null;
+		PreparedStatement pstmt = null;
+		
+		try {
+			
+			con = getConnection();
+			String sql = "delete from model2board where board_num = ?";
+			pstmt = con.prepareStatement(sql); 
+			pstmt.setInt(1, board_num);
+			
+			result = pstmt.executeUpdate();
+			
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
+		
+		return result;
+	}
 
 }
