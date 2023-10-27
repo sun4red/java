@@ -8,7 +8,7 @@
 <insert id="insert" parameterType="board">
 insert into mybatisboard values(mybatisboard_seq.nextval,
 #{board_name}, #{board_pass}, #{board_subject}, #{board_content}, 
-#{board_file}, mybatisboard_seq.nextval, 0, 0, 0, sysdate)
+#{board_file, jdbcType=VARCHAR}, mybatisboard_seq.nextval, 0, 0, 0, sysdate)
 </insert>
 
 </mapper>
