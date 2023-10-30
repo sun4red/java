@@ -24,15 +24,25 @@ public class BoardReply implements Action {
 		
 		board.setBoard_num(board_num);
 		board.setBoard_re_ref(board_re_ref);
-		board.setBoard_re_lev(board_re_lev);
 		board.setBoard_re_seq(board_re_seq);
+
+		BoardDAO dao = BoardDAO.getInstance();
+
+		dao.updateSeq(board);	// board_re_seq값 1 증가
+		
+		
+		board.setBoard_re_seq(board_re_seq+1);
+		board.setBoard_re_lev(board_re_lev+1);
 		board.setBoard_name(request.getParameter("board_name"));
 		board.setBoard_pass(request.getParameter("board_pass"));
 		board.setBoard_subject(request.getParameter("board_subject"));
 		board.setBoard_content(request.getParameter("board_content"));
 
-		BoardDAO dao = BoardDAO.getInstance();
+		
+		
 		int result = dao.boardReply(board);	// 댓글 작성
+		
+		
 		if(result ==1) System.out.println("댓글 작성 성공");
 		
 		ActionForward forward = new ActionForward();

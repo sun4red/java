@@ -1,6 +1,8 @@
 package service;
 
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -36,9 +38,18 @@ public class BoardListAction implements Action {
 		int endRow = page * limit;
 		
 		// 게시판 목록 10개 구하기
-		List<BoardBean> boardlist = dao.getList(startRow, endRow);
-		System.out.println("boardlist : " + boardlist);
+//		List<BoardBean> boardlist = dao.getList(startRow, endRow);
+//		List<BoardBean> boardlist = dao.getList(startRow, endRow);
+//		System.out.println("boardlist : " + boardlist);
 		
+	// Map으로 처리
+		Map map = new HashMap();
+		
+		map.put("start", startRow);
+		map.put("end",  endRow);
+		
+		List<BoardBean> boardlist = dao.getList(map);
+		System.out.println("boardlist : " + boardlist);
 		
 		
 		
