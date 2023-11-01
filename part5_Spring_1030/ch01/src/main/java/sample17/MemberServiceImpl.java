@@ -13,7 +13,7 @@ public class MemberServiceImpl implements MemberService {
 	private MemberDao md;
 
 	public int insert(RegisterMember rm) {
-		int result = 0;
+		int result = 0;		// EMail 중복 검사
 		Member member = md.selectByEmail(rm.getEmail());
 		if (member == null) {
 			member = new Member(rm.getPass(), rm.getEmail(), rm.getName(), new Date());
