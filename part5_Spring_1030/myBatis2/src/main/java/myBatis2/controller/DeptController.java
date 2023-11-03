@@ -1,15 +1,15 @@
-package myBatis1.controller;
+package myBatis2.controller;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
-import myBatis1.model.Dept;
-import myBatis1.service.DeptService;
+import myBatis2.model.Dept;
+import myBatis2.service.DeptService;
 
 @Controller
 public class DeptController {
@@ -17,19 +17,29 @@ public class DeptController {
 	private DeptService ds;
 
 	@RequestMapping("deptList.do")
-	public String list(Model model) {
+	public String deptList(Model model) {
 		List<Dept> list = ds.list();
 		model.addAttribute("list", list);
 		return "deptList";
 	}
 
-	@RequestMapping("deptView.do")
-	public String deptView(@RequestParam("deptno") int deptno, 
-			Model model) {
-		// 값을 받는 변수명이 같기 때문에 @RequestParam 생략되어있다.
-		Dept dept = ds.select(deptno);
-		model.addAttribute("dept", dept);
-		return "deptView";
+	@RequestMapping("deptInsertForm.do")
+	public String deptInsertForm() {
+		return "deptInsertForm";
+	}
+
+	@RequestMapping("deptInsert.do")
+	public String deptInsert(@ModelAttribute Dept dept, 
+			                 Model model) {
+		Dept dt = ds.select(dept.getDeptno());
+		if (dt == null) {
+			int result = ds.insert(dept);
+			model.addAttribute("result", result);
+		} else {
+			model.addAttribute("msg", "이미 있는 데이터입니다");
+			model.addAttribute("result", -1);
+		}
+		return "deptInsert";
 	}
 
 	@RequestMapping("deptUpdateForm.do")
