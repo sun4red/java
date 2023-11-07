@@ -10,8 +10,18 @@
 </head>
 <body>
 
-<c:if test=""></c:if>
-
+<c:if test="${result == 1 }">
+	<script>
+		alert("삭제 성공");
+		location.href="boardlist.do?page=${page}";
+	</script>
+</c:if>
+<c:if test="${result != 1 }">
+	<script>
+		alert("삭제 실패");
+		history.go(-1);
+	</script>
+</c:if>
 
 </body>
 </html>
