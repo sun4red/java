@@ -31,6 +31,25 @@ public class BoardDao {
 		return session.selectList("list", page);
 	}
 
+	public void updatecount(int no) {
+		session.update("hit", no);
+	}
+
+	public Board getBoard(int no) {
+		// TODO Auto-generated method stub
+		return session.selectOne("content", no);
+	}
+
+	public int update(Board board) {
+		// TODO Auto-generated method stub
+		return session.update("update", board);
+	}
+
+	public int delete(int no) {
+
+		return session.delete("delete", no);
+	}
+
 	
 	// sql세션은 주입하고싶다고 바로 주입할 수 있는게 아니다
 	
