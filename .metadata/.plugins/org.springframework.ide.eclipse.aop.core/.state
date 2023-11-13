@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="restapi2"/>
+<aop-project name="sboard"/>
+<aop-project name="board1"/>
+</aop-reference-model>
