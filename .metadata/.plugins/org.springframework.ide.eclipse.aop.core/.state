@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="restapi2"/>
-<aop-project name="sboard"/>
-<aop-project name="board1"/>
+<aop-project name="myBatis1"/>
+<aop-project name="boot02"/>
+<aop-project name="sbboard"/>
+<aop-project name="myBatis01"/>
+<aop-project name="myBatis02"/>
 </aop-reference-model>
