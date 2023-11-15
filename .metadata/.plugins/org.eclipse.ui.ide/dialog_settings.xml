@@ -139,6 +139,13 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\workspace\part5_Spring_1030\Thymeleaf"/>
+			<item value="D:\workspace\part5_Spring_1030\sbmember"/>
+			<item value="D:\workspace\part5_Spring_1030\springmember"/>
+			<item value="D:\workspace\part5_Spring_1030\mysqlboard03"/>
+			<item value="D:\workspace\part5_Spring_1030\mysqlboard02"/>
+			<item value="D:\workspace\part5_Spring_1030\mysqlboard01"/>
+			<item value="D:\workspace\part5_Spring_1030\sbmapper"/>
 			<item value="D:\workspace\part5_Spring_1030\sbboard"/>
 			<item value="D:\workspace\part5_Spring_1030\myBatis1"/>
 			<item value="D:\workspace\part5_Spring_1030\boot02"/>

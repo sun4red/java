@@ -3,6 +3,12 @@
 <aop-project name="myBatis1"/>
 <aop-project name="boot02"/>
 <aop-project name="sbboard"/>
+<aop-project name="mysqlboard01"/>
+<aop-project name="mysqlboard02"/>
+<aop-project name="mysqlboard03"/>
+<aop-project name="sbmember"/>
+<aop-project name="sbmapper"/>
+<aop-project name="Thymeleaf"/>
 <aop-project name="myBatis01"/>
 <aop-project name="myBatis02"/>
 </aop-reference-model>

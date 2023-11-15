@@ -43,6 +43,7 @@ public class DatabaseConfiguration {
 		sqlSessionFactoryBean.setMapperLocations(
 			applicationContext.getResources("classpath:/mapper/*.xml"));
 		sqlSessionFactoryBean.setConfiguration(mybatisConfig());
+		// @alias 어노테이션
 		sqlSessionFactoryBean.setTypeAliasesPackage("com.example.demo.model");
 		return sqlSessionFactoryBean.getObject();
 	}
