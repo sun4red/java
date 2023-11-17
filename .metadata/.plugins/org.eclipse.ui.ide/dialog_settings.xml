@@ -139,6 +139,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\workspace\part5_Spring_1030\jpamysql02"/>
+			<item value="D:\workspace\part5_Spring_1030\jpamysql01"/>
+			<item value="D:\workspace\part5_Spring_1030\jpaoracle02"/>
 			<item value="D:\workspace\part5_Spring_1030\jpaoracle01"/>
 			<item value="D:\workspace\part5_Spring_1030\ThymeleafBoard"/>
 			<item value="D:\workspace\part5_Spring_1030\Thymeleaf"/>
